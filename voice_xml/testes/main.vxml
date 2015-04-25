@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+
+<!DOCTYPE vxml PUBLIC "-//BeVocal Inc//VoiceXML 2.0//EN"
+ "http://cafe.bevocal.com/libraries/dtd/vxml2-0-bevocal.dtd">
+<vxml version="2.0" xmlns="http://www.w3.org/2001/vxml">
+
+<var name="nome1" />
+<var name="nome2" />
+
+<form id="init">
+<block>
+   <assign name="nome1" expr="'Gerson Felipe Schwinn'" />
+   <goto next="#confirm_class" />
+</block>
+</form>
+
+
+<form id="confirm_class">
+<block>
+   <assign name="nome2" expr="'Gerson'" />
+   <submit next="http://www.onehost.com.br/topicos/voice_xml/testes/exibe.php" method="post" namelist="nome1 nome2"/>
+</block>
+</form>
+
+
+
+</vxml>

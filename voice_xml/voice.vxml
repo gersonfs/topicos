@@ -1,0 +1,231 @@
+<?xml version="1.0" ?>
+ <!DOCTYPE vxml 
+   PUBLIC "-//BeVocal Inc//VoiceXML 2.0//EN"
+   "http://cafe.bevocal.com/libraries/dtd/vxml2-0-bevocal.dtd">
+ 
+ <vxml version="2.0" 
+   xmlns="http://www.w3.org/2001/vxml"
+   xml:lang="en-US">			
+
+<var name="v_apto" />
+<var name="v_hosp" />
+<var name="v_dt" />
+<var name="v_dt2" />
+<var name="v_cpf" />
+<var name="v_pag" />
+<var name="v_nome" />
+<var name="v_res_alterar" />
+
+<script>
+<![CDATA[
+
+function cpfValido(CPF){
+if (CPF.length != 11 || CPF == "00000000000" || CPF == "11111111111" ||
+ CPF == "22222222222" || CPF == "33333333333" || CPF == "44444444444" ||
+ CPF == "55555555555" || CPF == "66666666666" || CPF == "77777777777" ||
+ CPF == "88888888888" || CPF == "99999999999") return false;
+
+
+var soma = 0;
+var resto;
+var i;
+
+for (i=0; i < 9; i ++)
+ soma += eval( parseInt(CPF.charAt(i)) * (10 - i) );
+
+
+
+resto = 11 - (soma % 11);
+if (resto == 10 || resto == 11)
+ resto = 0;
+if (resto != parseInt(CPF.charAt(9)))
+ return false;
+soma = 0;
+for (i = 0; i < 10; i ++)
+ soma += parseInt(CPF.charAt(i)) * (11 - i);
+resto = 11 - (soma % 11);
+if (resto == 10 || resto == 11)
+ resto = 0;
+if (resto != parseInt(CPF.charAt(10)))
+ return false;
+      
+return true;
+
+
+}
+
+]]> 
+</script>
+
+<form id="detalhes" scope="dialog">	
+	<grammar src="http://www.onehost.com.br/topicos/voice_xml/gramatica.php#acao" mode="voice"/>			
+	<field name="acao" modal="false">			
+	<prompt>Bem vindo ao Schwinn palace hotel, Qual o tipo de operacao deseja executar. 
+			Reservar um apartamento, alterar uma reserva ou cancelar um resarva</prompt>	
+	      <filled>
+	        <if cond="acao == 'novo'">
+	          <goto next="#def"/>
+	        </if>
+	        <if cond="acao == 'editar'">
+	          <goto next="#alterar"/>
+	        </if>
+	        <if cond="acao == 'remover'">
+	          <goto next="#cancelar"/>
+	        </if>
+	      </filled>
+	</field>						
+</form>
+
+
+<form id="def" scope="dialog">	
+
+	<grammar src="http://www.onehost.com.br/topicos/voice_xml/gramatica.php#apt" mode="voice"/>
+	
+	<initial name="mista">
+	  <prompt> Diga o tipo de quarto desejado, Standart, max ou luxo, e o numero de hospedes </prompt>
+	</initial>	
+	
+	<field name="apto" modal="false">
+		<grammar src="http://www.onehost.com.br/topicos/voice_xml/gramatica.php#apt" mode="voice"/>
+		<prompt>Qual tipo de quarto voce deseja. Standart, luxo ou max	</prompt>						
+	</field>	
+			
+	<field name="hosp" modal="false">
+		<grammar src="http://www.onehost.com.br/topicos/voice_xml/gramatica.php#apt" mode="voice"/>
+		<prompt> Diga o numero de hospedes do quarto </prompt>
+	</field>
+	
+	<filled>
+	    <assign name="document.v_apto" expr="apto"/>
+	    <assign name="document.v_hosp" expr="hosp"/>
+	    <goto next="#dat"/>
+	</filled>
+</form>
+
+
+<form id="dat" scope="dialog">	
+	
+	<field name="dt" type="date">
+		<prompt> Agora diga a data inicial do aluguel </prompt>
+		<filled>
+			<prompt> Voce informou <value expr="dt"/></prompt>
+		</filled>
+	</field>
+	
+	<field name="dt2" type="date">
+		<prompt> Agora diga a data final do aluguel </prompt>
+		<filled>
+			<prompt> Voce informou <value expr="dt2"/></prompt>
+		</filled>
+	</field>
+	
+	<filled>
+	    <assign name="document.v_dt" expr="dt"/>
+	    <assign name="document.v_dt2" expr="dt2"/>
+	    <if cond="isNaN(document.v_res_alterar)">
+	    	<goto next="#nome"/>
+	    <else/>
+	    	<submit next="http://www.onehost.com.br/topicos/voice_xml/editar.php" method="post" namelist="v_res_alterar v_dt v_dt2"/>
+	    </if>
+	</filled>
+	
+</form>
+
+<form id="nome" scope="dialog">																
+
+	<field name="nome">
+	    <grammar src="http://www.onehost.com.br/topicos/voice_xml/gramatica.php#nomes" mode="voice"/>
+		<prompt> diga o seu nome </prompt>
+	</field>																	
+
+	<filled>
+		  <assign name="document.v_nome" expr="nome"/>
+	      <goto next="#cad"/> 
+	</filled>
+	
+</form>
+
+
+<form id="cad" scope="dialog">																
+	<field name="cpf" type="digits">
+		<prompt>  bem vindo ao momento de se cadastrar,
+		Diga o numero do seu cpf, falando numero a munero, sem tracos e sem pontos</prompt>
+	</field>																	
+	
+	<filled>
+	   <if cond="cpfValido(cpf)">
+	   		 <assign name="document.v_cpf" expr="cpf"/>
+	         <goto next="#pag"/> 
+	   <else/>
+	   	  <prompt>cpf invalido</prompt>
+	      <goto next="#cad"/> 
+	   </if>
+	</filled>
+</form>
+
+
+<form id="pag" scope="dialog">						
+	<grammar src="http://www.onehost.com.br/topicos/voice_xml/gramatica.php#cond_pag" mode="voice"/>	
+	
+	<field name="cond_pag" modal="false">
+		<prompt> Diga a forma de pagamento, sendo a vista ou a prazo</prompt>
+	</field>
+	
+	<filled>
+	    <assign name="document.v_pag" expr="cond_pag"/>
+	     <if cond="isNaN(document.v_res_alterar)">
+	    	<submit next="http://www.onehost.com.br/topicos/voice_xml/cadastra.php" method="post" namelist="v_apto v_hosp v_dt v_dt2 v_cpf v_pag v_nome"/>
+	    <else/>
+	    	<submit next="http://www.onehost.com.br/topicos/voice_xml/editar.php" method="post" namelist="v_res_alterar v_pag"/>
+	    </if>
+	</filled>
+</form>
+
+<form id="alterar" scope="dialog">			
+	<field name="resalterar" type="number">
+		<prompt> Diga o numero da reserva voce deseja alterar</prompt>
+	</field>
+	<filled>
+		<assign name="document.v_res_alterar" expr="resalterar"/>
+		<prompt> codigo da reserva <value expr="resalterar"/></prompt>
+		<goto next="#alterar2"/> 
+	</filled>
+</form>
+
+<form id="alterar2" scope="dialog">	
+	
+	<field name="alterar">
+		<prompt> o que voce deseja editar, forma de pagamento ou periodo </prompt>
+		<grammar src="http://www.onehost.com.br/topicos/voice_xml/gramatica.php#alteracao" mode="voice"/>
+		<filled>
+			<if cond="alterar == 'periodo'">
+				<goto next="#dat"/>
+			</if>
+			<if cond="alterar == 'pagamento'">
+				<goto next="#pag"/>
+			</if>
+		</filled>
+	</field>
+</form>
+
+
+
+<form id="cancelar" scope="dialog">						
+<field name="rescancelar" type="number">
+<prompt> Diga o numero da reserva voce deseja cancelar</prompt>
+</field>
+<block>
+  <submit next="http://www.onehost.com.br/topicos/voice_xml/cancelar.php" method="post" namelist="rescancelar"/>
+</block>
+</form>
+
+
+<noinput>
+  Desculpa, eu nao escutei nada. 
+  <reprompt /> 
+</noinput>
+<nomatch>
+  Sua opcao foi invalida
+  <reprompt /> 
+</nomatch>						
+</vxml>

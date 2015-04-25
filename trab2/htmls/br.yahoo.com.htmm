@@ -1,0 +1,1457 @@
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd"><html>
+<head>
+<title>Yahoo! Brasil</title>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<meta http-equiv="PICS-Label" content='(PICS-1.1 "http://www.icra.org/ratingsv02.html" l r (cz 1 lz 1 nz 1 oz 1 vz 1) gen true for "http://www.yahoo.com" r (cz 1 lz 1 nz 1 oz 1 vz 1) "http://www.rsac.org/ratingsv01.html" l r (n 0 s 0 v 0 l 0) gen true for "http://www.yahoo.com" r (n 0 s 0 v 0 l 0))'>
+<style type="text/css">
+      /*Begin: lsmfonts.css ==============================*/
+body{font:84.5% arial,"Sans Serif",helvetica,clean,sans-serif;_font-size:small;_font:x-small;}
+table{font-size:inherit;font:100%;}
+select,input,textarea{font:99% arial,helvetica,clean,sans-serif;}
+pre,code{font:115% monospace;_font-size:100%;}
+body *{line-height:1.22em;}
+/*End: lsmfonts.css ==============================*/
+      
+      /*Begin: t1_1.0.2.css | Version Date: 2007-07-17 ==============================*/
+.btn-more-2, .hd li.on a, div.hd li.sparkle a, .hd, #mastheadbd .top, #mastheadbd, #doors li a, #today .ft li.on a{background-image:url(http://l.yimg.com/us.yimg.com/i/ww/thm/1/grd-1px_1.1.gif); background-repeat:repeat-x;}
+#minimantle, div.minimantle, #sizetoggle, #trough ul, #pa{background-image:url(http://l.yimg.com/us.yimg.com/i/ww/thm/1/grd-4px.gif); background-repeat:repeat-x;}
+.md{background:#fff; border:1px solid #b0bec7;}
+#left .md{border:1px solid #91a7b4; border-color:#b0bdc6 #91a7b4 #91a7b4 #b0bdc6;}
+.hd{color:#18397c; background-color:#fff; background-position:bottom left; border:1px solid #b0bec7; border-bottom:1px solid #93a6b4;}
+.hd li a{color:#18397c;}
+.hd li .pipe{background:#788a98; border-right:1px solid #fff;}
+.hd li.on a{border:1px solid #91a7b4; border-top-color:#778a98; border-bottom:1px solid #fff; background-color:#fff; background-position:0 -178px;}
+.hd li.first a{border-left:none;}
+.hd li.last a{border-right:none;}
+.hd li.on a{color:#c63;}
+div.hd li.sparkle a{background-color:#b5cdd9;}
+.ft,#newsft{background:#F1F5F6; border-top:1px solid #b0bec7;} 
+#minimantle, div.minimantle, #sizetoggle{border:1px solid #91a7b4; background-color:#93a6b4; background-position:0 -2041px;}
+#minimantle .md-sub, .minimantle .md-sub, #sizetoggle .bd{border:1px solid #fff;}
+#smallbiz.md-sub{border-bottom:1px solid #93a6b4;}
+#smallbiz.inverted{border-top:1px solid #fff; border-bottom:1px solid #fff;}
+#advertising.inverted{border-bottom:1px solid #93a6b4;}
+#sizetoggle .bd{border:1px solid #dde4ea; border-color:#afbdc6 #556b78 #556b78 #afbdc6;}
+#minimantle li, .minimantle li{background-position:-8px -1px; *background-position:-8px -1px;}
+#mastheadbd .top{background-color:#e2eaed;}
+#mastheadbd{background-color:#eef3f6; background-position:0 -30px; border:1px solid #dbe2e8; border-width:0 1px; border-bottom:1px solid #cad5db;}
+#searchIE{filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(src="http://l.yimg.com/us.yimg.com/i/ww/thm/1/search_1.1.png", sizingMethod="scale");}
+#doors li{background:#dde6eb}
+#doors li strong{border:1px solid #dee6e9;border-color:#dee6e9 #586b7a #586b7a #dee6e9}
+#doors li a{border:1px solid #fff; background-color:#fff; background-position:bottom left;}
+#trough{background:#91a7b4;}
+#trough .bd{border:1px solid #fff; border-width:0 1px 1px 0;}
+#trough span{background:#f8f9fb; border-top:1px solid #91a7b5;}
+#trough ul{background-color:#f8f9fc;}
+#trough li{border-bottom-color:#c2cfd8;}
+span#edityservicescx{background:#ebeff2 url(http://l.yimg.com/us.yimg.com/i/ww/thm/1/grd-1px_1.1.gif) 0 -757px repeat-x; border-bottom:1px solid #000; border-color:#b0bdc6 #91a7b4 #91a7b4 #b0bdc6;}
+#edityservices{background:url(http://l.yimg.com/us.yimg.com/i/ww/thm/1/icons_1.1.gif) 0 -257px repeat-x;}
+#trough-promo{border-top-color:#93a6b4;}
+a#editpage{background-position:100% -307px;}
+a#editpage.on{background-position:100% -361px;}
+#en-img{border-color: #778a98;}
+#en-details{background-color:#F1F5F6; border-color: #b0bec7;}
+.tweenerNews{background-color:#F1F5F6;}
+#today .ft li.on,#today .ft li.on a{border-color:#afbec5 #afbdc5 #afbdc5 #b0bfc6;}
+#today .ft li.on a{color:#666; background-color:#fcfcfc; background-position:0 -296px;}
+#newsbottom{border-top:1px solid #fff;}
+#news ul#footer-more-news.btn-more{border-top-color:#b0bec7;}
+#marketplace hr{border-top:1px solid #b0bec7; color:#b0bec7;}
+#pa{border-color:#afbdc6 #556b78 #556b78 #afbdc6;background-position:0 -2700px;}
+#pabd{border:1px solid #c9d7e2; border-width:0 1px 1px 0;}
+#patabs ul.patabs li div{background:#9dadc4;}
+#patabs ul.patabs li h4{background:#6b7fa0;}
+#patabs ul.patabs li a{border:1px solid #c9d6de; border-color:#aec0ce #3d5360 #3d5360 #aec0ce; background-color:#fff;}
+#patabs ul.patabs li.tab-on a, #patabs .papreviewdiv{border-color:#566c7a #c2d0d9 #c2d0d9 #c2d0d9; border-width:1px 1px 0 1px; background:#fff url(http://l.yimg.com/us.yimg.com/i/ww/t4/pa-preview-shadow.gif) repeat-x;}
+#patabs ul.patabs li.tab-on div{background:#fff;}
+#patabs ul.patabs li.first a{border-left-width:1px;}
+#patabs ul.patabs li.last a{border-right-width:1px;}
+#patabs .papreviewdiv{border:1px solid #c4cfd5; border-top-color:#566c7a;}
+#footer{color:#16387c;}
+#footer li{border-right:1px solid #b0bec7;}
+#copyright{color:#666;}
+.feedback {border-right:1px solid #b0bec7;}	
+.more{background:none;}
+#special-ad{background:#F1F5F6;}
+/*End: t1_1.0.2.css ==============================*/
+            
+      /*Begin: styles_1.0.3.css | Version Date: 2007-04-19 ==============================*/
+#Ymsgr00, #Ymsgr01, #Ymsgr02, #Ymsgr03{display:none;height:0;line-height:0;overflow:hidden;}
+body{text-align:center; color:#333; direction:ltr;}
+body,h1,h2,h3,h4,h5,h6,ul,ol,li,dl,dt,dd,p,form,fieldset,legend,input,img{margin:0;padding:0;}
+input{vertical-align:middle;}
+img,fieldset{border:0;}
+ul,ol{list-style:none;}
+legend{display:none;}
+label{cursor:pointer;cursor:hand;}
+cite{font:normal 85% verdana;}
+em{font-style:normal;}
+cite span{font-weight:bold;}
+a{color:#16387c;}
+a:link,a:visited{text-decoration:none;}
+a:hover{text-decoration:underline;}
+.on a:hover{text-decoration:none;}
+.a11y{display:none;}
+u{text-decoration:none;}
+ol:after, ul:after,.md:after, .md-sub:after, .hd:after, .bd:after, .ft:after, .fixfloat:after, #colcx:after, #rightcx:after, #eyebrow:after, #masthead:after, #search:after, #tabs:after, #sbox:after, #doors:after, #patabs:after, #patop:after{content:"."; display:block; font-size:0px; line-height:0px; height:0; clear:both; visibility:hidden;}
+ol, ul, .md, .md-sub, .hd, .bd, .ft, .fixfloat, #colcx, #rightcx, #eyebrow, #masthead, #search, #tabs, #sbox, #doors, #patabs, #patop{zoom:1;_height:1px;} /* this gives a container that has floated child elements layout (IE) */
+.iemw{ display:none;  width:950px;  font-size:0px; line-height:0px; height:0px; _display:block;}
+#mastheadbd .top .iemw{ width:948px; }
+.more, .bullet, .audio, .video, .slideshow, .search, .updated, .minimantle li, #minimantle li, #localnewsct #newstop li, a#editpage, a#editpage.on,#vsearchtabs dl dt a,#sboxfooter a.yans{background-image:url(http://l.yimg.com/us.js.yimg.com/i/ww/sp/icons_1.3.gif); background-repeat:no-repeat;}
+.submit,.s2{padding:2px 5px; font:bold 77% verdana; color:#000; background:#ddd; overflow:visible; cursor:pointer; cursor:hand;}
+.inputtext{border:1px solid #f0f0f0; border-color:#7c7c7c #cecece #c3c3c3 #7c7c7c; background:#fff url(http://l.yimg.com/us.yimg.com/i/ww/t4/sbox-bg.gif) no-repeat;}
+.more, .bullet, .audio, .video, .slideshow, .search{font:normal 77% verdana; padding:2px 0 2px 18px; }
+.more{padding:2px 0 2px 5px;font-weight:bold;background:none;}
+.plain{padding:2px 0;}
+.bullet{background-position:-7px 1px;padding-left:9px;}
+.video{background-position:-3px -50px;}
+.audio{background-position:-3px -100px;}
+.slideshow{background-position:-3px -151px;}
+.search{background-position:-3px -200px;}
+.updated{background-position:100% -635px; padding-right:42px;}
+.text,  .fullcvg, .discuss, .link{font:normal 77% verdana; padding:2px 0 2px 20px; background-image:url(http://l.yimg.com/us.yimg.com/i/ww/t2/action-icons.2.gif); background-repeat:no-repeat;}
+.text{background-position:1px -3px;}
+.fullcvg{background-position:0 -129px;}
+.discuss{background-position:0 -159px;}
+.link{background-position:-1px -221px;}
+.beta{background:url(http://l.yimg.com/us.yimg.com/i/ww/beta.gif) 100% 0 no-repeat; padding-right:20px;}
+.new{background:url(http://l.yimg.com/us.yimg.com/i/ww/sp/new.gif) 100% 0 no-repeat; padding-right:20px;}
+.gling{background:url(http://l.yimg.com/eur.yimg.com/i/fr/hp/z/gling.gif) 100% 0 no-repeat; padding-right:20px;}
+.answers12,.flickr12,.delicious12,.rss12{font:normal 77% verdana; margin:2px 0; padding-left:16px; background: url(http://l.yimg.com/us.yimg.com/i/ww/sp/sprefabs12_1.0.0.gif) no-repeat;}
+.answers12{background-position:0 0;}
+.flickr12{background-position:0 -40px;}
+.delicious12{background-position:0 -80px;}
+.rss12{background-position:0 -120px;}
+.timestamp{display:block; font:normal 77% verdana; color:#999; margin-bottom:4px;}
+#today .timestamp{margin-bottom:6px;_margin:-1 0 6px;}
+.btn-more{display:block; position:absolute; bottom:4px; right:10px; font:bold 77% verdana; white-space:nowrap;}
+.btn-more-2{padding:1px 10px 2px; *padding:1px 5px 0;font:bold 100% arial; color:#000; white-space:nowrap; border:1px solid #999b9a; background-color:#ce9200; background-position:0 -450px;}
+.alert{font:normal 77% verdana; color:#f00;}
+a.norgie{float:left; width:19px; height:20px; margin:auto; background:url(http://l.yimg.com/us.yimg.com/i/ww/t1/norgie-down.gif) 50% no-repeat;}
+.hide a.norgie{background-image:url(http://l.yimg.com/us.yimg.com/i/ww/t1/norgie-down.gif);}
+a.mover{float:right; margin:0 4px; width:19px; height:20px; background:url(http://l.yimg.com/us.yimg.com/i/ww/t1/norgie-down.gif) 50% no-repeat; display:none; /* for bucket 1 */}
+.bd span,.ft span{display:none;}
+.bd .current,.ft .current,.current span{display:block;}
+#headlines span {display: inline;}
+#apworld span {display: inline;}
+.md{position:relative; margin:0 0 10px; /* module */}
+.hd{position:relative; margin:-1px -1px 0;/* header */}
+.hd h2{position:relative; display:block; padding:3px 10px; font:bold 100% arial; border-bottom:1px solid #fff;}
+.tabs{padding:0;}
+.tabs .hd h2{left:25px; top:-2px;}
+.tabs ul{min-height:17px; _height:17px; _overflow:visible;}
+.bd{padding:5px 10px 10px;}/* body */
+.ft{padding:9px;} /* footer */
+.ad{margin:0 0 10px;} /* advertisement */
+.hide .bd,.hide .ft{display:none;}
+.hd ul{position:relative; width:100%; border-bottom:1px solid #fff;}
+.hd ul li{position:relative; float:left; outline:none;}
+.hd li.last{float:right;}
+.hd li a{position:relative; display:block; padding:3px 0 0; margin-right:-1px; font:normal 92% arial; color:#18397c; text-align:center; white-space:nowrap; border-right:0; z-index:50; min-height:15px; outline:none;}
+.hd li.on{z-index:60;}
+.hd li .pipe{display:block; position:absolute; top:3px; right:0; width:1px; height:1.15em; background:#788a98; border-right:1px solid #fff; _width:2px;}
+.hd li.on .pipe{visibility:hidden;}
+.hd li.on a{font-weight:bold; padding-bottom:0.3em; margin:-1px 0 -2px;}
+.hd li.off .pipe,.hd li.on .pipe,.hd li.last .pipe{visibility:hidden;}
+div.hd li.sparkle a{background-position:0 -530px; font-weight:bold; border:1px solid #fff; border-bottom:none; margin:0 0 0 -1px; padding:2px 0 0.2em 0;} 
+#news .hd ul li{width:33.2%;}
+#newsbd .video{background-position:-3px -48px;}
+#newsbd .audio{background-position:-3px -98px;}
+#newsbd .slideshow{background-position:-3px -149px;}
+#today .hd ul li{width:24.9%;}
+.md-sub h3{font-size:100%;}
+span.btn-more span{font-weight:normal; color:#16387c; display:inline;}
+span.btn-more span a{font-weight:bold; padding: 0 6px 0 4px; line-height:1em; border-right:1px solid #94a1c3;}
+span.btn-more span a.last{border:none;}
+#page{margin:0 auto; position:relative; min-width:950px; width:70em; _width:71.25em; text-align:left; *overflow:hidden;_overflow:visible;}
+#colcx{ min-width:950px;  position:relative; overflow:hidden; _overflow:visible; _overflow-x: hidden;}
+#left{float:left; width:15.79%; min-width:150px; margin:0 0 10px 0;}
+#rightcx{float:right; width:84.21%; min-width:800px;}
+.colpadding{margin-left:10px;}
+#middle{float:left; width:55%; min-width:440px; }
+#right{float:left; width:45%; min-width:360px;  _margin-right:-200px;}
+#loading{display:none; position:absolute; top:2px; right:2px; z-index:999;}
+#special-ad{float:none; clear:both; text-align:center; margin-bottom:10px; line-height:0; font-size:0;}
+#minimantle{margin:10px 0;}
+#minimantle .md-sub, .minimantle .md-sub{padding:5px 5px 10px 10px;}
+#minimantle h2,.minimantle h2{font:bold 100% arial; margin-bottom:0;}
+#minimantle li,.minimantle li{font:bold 85% verdana; padding:0 0 3px 8px; background-position: -8px 0;}
+#mantlecx{margin:0 0 10px;}
+#marketplacebd span{display: inline;}
+/*trough overlay*/
+#trough-overlay{position:absolute; top:0; left:-1000em; z-index:200; width:44em; min-width:592px;  padding:2px 0 0 2px; _width:592px; _overflow:hidden;}
+#trough-overlay.edit{width:46em;}
+#trough-overlay .shadow1{display:block; background:#b1b1b1;}
+#trough-overlay .shadow2{display:block; position:relative; top:-1px; left:-1px; background:#8b8b8b; }
+#trough-overlay-content{position:relative; top:-1px; left:-1px; min-width:540px; _width:100%; padding:10px 6px; border:1px solid #184473; background:#85a9cb url(http://l.yimg.com/us.yimg.com/i/ww/t5/grd-4px.gif) 0 -3100px repeat-x;}
+#trough-overlay h2{font:bold 122% arial; color:#fff; margin:0 0 10px 10px;}
+#trough-overlay p{font:normal 92% arial; color:#fff; margin:-10px 0 10px 10px;}
+#trough-close{display:block; position:absolute; top:6px; right:5px; padding:0 0 0 10px; font:bold 77% verdana; color:#fff; background:url(http://l.yimg.com/us.yimg.com/i/ww/t5/trough-close-2.gif) center left no-repeat;}
+#trough-overlay-bd{padding:3px 0 0 3px; background:#fff url(http://l.yimg.com/us.yimg.com/i/ww/t5/shd-tr.gif) no-repeat;}
+#trough-overlay-bd ol{float:left; width:20%;}
+#trough-overlay.edit li{font-weight:normal;}
+#trough-overlay.edit li.on{font-weight:bold;}
+#trough-overlay-bd li{font:bold 85% verdana; margin-bottom:9px; _margin-bottom:6px;}
+#trough-overlay-bd li a{white-space:nowrap;}
+#trough-overlay-bd div{ padding:10px 17px 0;_width:100%; _padding:5px 17px 4px;}
+#trough-overlay-bd h3{font-size:85%; color:#369; padding-bottom:3px; margin-bottom:1em; border-bottom:1px solid #EEF2F5; float:none; clear:both;}
+#trough-overlay-bd li h3{padding-bottom:1px; margin:0;border-bottom:1px solid #DDE2E5;}
+#trough-overlay-bd #properties{position:relative; background:#f1f6fa; color:#333; float:none; clear:both; overflow:hidden;}
+#trough-overlay-bd #properties-co{position:relative; background:#fff url(http://l.yimg.com/us.yimg.com/i/ww/t5/grd-2px.gif) repeat-x; float:none; clear:both; overflow:hidden;}
+#trough-overlay-bd #properties-intl{position:relative; background:#fff url(http://l.yimg.com/us.yimg.com/i/ww/t5/grd-2px.gif) repeat-x; float:none; clear:both; overflow:hidden;}
+#trough-overlay.edit #properties{background:#fdfac3;}
+#seriously{background:#fff url(http://l.yimg.com/us.yimg.com/i/ww/t5/grd-2px.gif) repeat-x; float:none; clear:both; overflow:hidden;}
+div#seriously{padding:7px 17px; text-align:right; font:bold 85% verdana;}
+#seriously a{margin-right:-7px;}
+#trough-overlay.edit #properties-intl{background-color:#fffcd9;}
+#trough-actions{margin:5px 0 0 0; _margin-right:-33px;}
+#trough-actions li{float:right; margin-left:10px;}
+#trough-actions li a{display:block; color:#fff;}
+#trough-actions .submit{padding:0 5px;}
+#overlay-save{background:#ffc027;}
+#overlay-default{position:relative;top:4px;font:bold 77% verdana;}
+/*Page settings stuff*/
+#pagesettingscx{position:absolute; right:10px; bottom:1px; zoom:1; z-index:999;}
+a#editpage{font:normal 77% verdana; padding-right:15px; zoom:1;}
+#pagesettings{display:none; position:absolute; top:100%; right:-3px; width:12.3em; margin:2px 0 0; background:#acc0c9; z-index:999;}
+#pagesettings .bd{position:relative; top:-1px; left:-1px; padding:0; background:#fffac6; border:1px solid #000; border-color:#cad5db #6b8792 #6b8792 #cad5db;}
+#pagesettings .bd span{display:block; padding:10px 5px; font:bold 77% verdana; white-space:nowrap;
+border:1px solid #fff; border-width:0 1px 1px 0; overflow:auto; _height:1px; _overflow:visible;}
+#pagesettings h4{float:left; _margin-right:-4px; font:normal 100% verdana;}
+#pagesettings ol li{float:left; display:inline; margin-left:3px;}
+#themes li a{display:block; width:13px; height:12px; text-indent:-5000px; font-size:0px; background:url(http://l.yimg.com/us.yimg.com/i/ww/sp/theme-icons_1.2.gif) no-repeat; cursor:pointer; cursor:hand;
+zoom:1;}
+#themes #t1{background-position:0 0;}
+#themes #t2{background-position:-19px 0;}
+#themes #t3{background-position:-38px 0;}
+#themes #t4{background-position:-57px 0;}
+#themes #t5{background-position:-75px 0;}
+#themes #t7{background-position:-94px 0;}
+#themes #t1.on{background-position:0 -15px;}
+#themes #t2.on{background-position:-19px -15px;}
+#themes #t3.on{background-position:-38px -15px;}
+#themes #t4.on{background-position:-57px -15px;}
+#themes #t5.on{background-position:-75px -15px;}
+#themes #t7.on{background-position:-94px -15px;}
+#sizetogglelink{text-align:center; display:block; border-top: 1px solid #cbd4db; margin-top:10px; padding-top:10px;}
+/*End: styles_1.0.3.css ==============================*/  
+      /*Begin: eyebrow_1.0.css ==============================*/
+#eyebrow{position:relative;	 min-height:13px; float:none; clear:both; font:normal 77% verdana; margin:0 auto; padding:3px 10px; _height:13px; _overflow:visible;}
+#eyebrow li{float:left;}
+#eyebrow ul,#eyebrow ul a{float:left;}
+.eyebrowborder{border-right:1px solid #B0BEC7; padding-right:10px; margin-right:10px;}
+#ffhpcx{position:absolute;}
+#headline{position:relative; float:right; right:0;}
+#sethomepage{font-weight:bold;}  
+#toolbar{display:none;}
+#eyebrow #shpd a{text-decoration:none;}
+.shdw{-moz-border-radius:4px;background:#ccc;z-index:2000;position:absolute;}
+#shpd1{top:5.4em; left:24em; font-size:77%;}
+#shpd2{top:2.8em; left:1em; font-size:100%;}
+.shdw .bd{border:1px solid #4333BC; -moz-border-radius:4px; width:360px; background:#fff; position:relative;top:-2px; left:-2px; z-index:1001;color:#333;}
+#pnt{position:absolute;top:-6px;left:30%;width:11px;height:6px;font-size:0px;background:url(http://us.i1.yimg.com/us.yimg.com/i/ww/shpa1.gif);}
+.shdw .shp{width:40px;height:37px; font-size:0px; line-height:0px; top:10px; left:10px; display:block; position:absolute; background:url(http://us.i1.yimg.com/us.yimg.com/i/ww/ydrag_spn.gif);}
+.shp strong{display:none;}
+.shdw ol{margin:9px 9px 9px 60px; padding:0 0 0 1.5em; list-style:decimal;}
+.shdw li{padding:0;text-align:left;}
+.shdw p{border-top:1px solid #ccc; font-family:verdana !important; margin:0 9px 9px; text-align:center;}
+/*End: eyebrow.css ==============================*/
+      /*Begin: masthead_1.0.1.css ==============================*/
+#mastheadbd .top{display:block;position:relative;left:-1px;margin-right:-2px; height:4px; font-size:0;}
+#mastheadbd{position:relative; z-index:1000; text-align:left; min-height:106px; height:7.85em; margin:0 auto 10px; _overflow-x:hidden;}
+/*End: masthead_1.0.1.css ==============================*/
+      /*Begin: logo.css ==============================*/
+#masthead h1{float:left; margin:17px 0 0 20px; _margin-left:8px; _width:219px; _height:45px;}
+/*End: logo.css ==============================*/
+      /*Begin: search_1.0.3.css | Version Date: 2007-08-20 ==============================*/
+#searchother{position:absolute; left:0; width:100%; height:100%;}
+#searchwrapper{top:0; *z-index:1000;  left:260px; width:70%;  }
+#searchIE{width:100%;}
+#searchwrapper, #searchIE{position:absolute; padding:0 0 10px; height:6.4em; *height:7.1em; }
+#search{position:relative; top:17px; min-height:89px; _height:89px; overflow:visible;}
+#search fieldset{_overflow:visible;  _width:100%;}
+#vsearchtabs{position:relative; margin:0 0 5px;	 margin-left:6.4em;  text-align:left; z-index:1000;}
+#vsearchtabs a{outline:none;}
+#vsearchtabs li{display:inline; border-right:1px solid #b0bec7;}
+#vsearchtabs li.last,#vsearchtabs li.last a{border:0;}
+#vsearchtabs li a{padding:0 7px 0 4px; *padding:0 4px 0 7px; font-size:92%;}
+#vsearchtabs li.on a{color:#333; font-weight:bold;}
+.ignore{position:relative;}
+#vsearchtabs dl{position:relative;display:inline;}
+#vsearchtabs dt{display:inline;}
+#vsearchtabs dl dt a{position:relative; border-left:1px solid #B0BEC7;padding:0 18px 1px 5px;text-transform:lowercase;background-position:2em -406px;line-height:14px;left:-4px;*left:-3px;_left:-1px;}
+#vsearchtabs dt a:hover, #vsearchtabs dt a.on{border:1px solid #B0BEc7;text-decoration:none;margin:-2px -1px -1px;*margin:-1px 0 -1px 0;*padding:0 19px 1px 4px; background-position:2em -454px;*background-position:2em -453px;}
+#vsearchtabs dt a.on, #vsearchtabs dt a.on:hover{background-position:2em -505px;*background-position:2em -504px;}
+#vslist{position:absolute; z-index:1000; left:-4px; _left:0; top:1.45em; display:none; background:#eee; border:1px solid #889AA7;font:92% arial; width:12em;text-align:left;}
+#vslist div{position:relative;margin:-2px -0px -0px -2px;background:#fff;border:1px solid #889AA7;padding:5px 2px;}
+#vslist span{position:relative;display:block;margin:8px 4px 5px;border-top:1px solid #889AA7;font-size:1px;height:1px;}
+#vslist ul,#vslist li{position:relative;border:0;display:block;float:none;}
+#vsearchtabs #vslist a{position:relative;display:block;padding:3px 4px;}
+#vslist a:hover{background:#889AA7;color:#fff;text-decoration:none;}
+#sbox{clear:both; margin:0; padding-bottom:5px; }
+#sbox label{float:left;}
+#searchlabel,#searchlabel-nochange{position:relative; margin:2px 8px 0 20px;	font:bold 122% arial; color:#333; _padding: 2px 8px 0px 20px !important; _margin:0 !important; *margin:0 !important; *padding: 2px 8px 0px 20px !important; }
+#searchlabel.searchlabel{ }
+#searchlabel{cursor:default;}
+#p,#scsz{width:100%; padding:3px 0 3px 3px;}
+#p,#scsz{_height:1.8em;}
+#searchbox .plong{width:100%;}
+#search .btn-more-2{     margin-left:-1px; padding:2px 10px;  float:left; position:relative; width:10.5em; *padding:1px;  _overflow:visible; cursor:pointer; *margin-top:1px;}
+#searchbox{float:left; width:62%;   text-align:left; margin-bottom:0;}
+#searchbox .plabel,#searchbox .cszlabel2{width:44.5%;}
+#searchbox .cszlabel1{text-align:center; font-weight:bold; padding-top:5px; width:8.4%; _width:7.0%;}
+#searchbox span{font-size:77%; position:relative; top:-3px; *top:0;}
+/*sboxfooter*/
+#sboxfooter{text-align:left; float:none; clear:both; font:normal 77% verdana;  position:relative; margin:0 27px 0 10px; padding-bottom:6px; white-space:nowrap; zoom:1; *top:-2px; } 
+#sboxfooter img{margin:0 5px -5px 0;}
+#sboxfooter #sboxanswers .answers{display:block; min-height:16px; *height:16px; *overflow:visible; background:url(http://l.yimg.com/us.yimg.com/i/ww/t4/blast.gif) 0 0 no-repeat; padding-left:20px; padding-top:0;}
+#sboxfooter #sboxanswers, #sboxfooter #sboxsearch{ margin-left:8em;  width:62.5%; }
+#sboxfooter #sboxsearch .search{font-size:1em;}
+#sboxfooter #searchoptions{font-size:90%; position:absolute; top:0; right:0;margin-top:1px; *margin-top:-2px;}
+#sboxfooter #searchoptions label{margin:0 5px 0 0;}
+#sboxfooter #searchoptions input{*margin:0 -3px;}
+/*End: search_1.0.3.css ==============================*/
+      /*Begin: frontdoors_1.0.0.css ==============================*/
+#doors{position:absolute; left:5px; bottom:8px; background:0; border:0;}
+#doors ul{border:none;}
+#doors li{float:left; margin:0 0 0 5px; background:#dde6eb;}
+#doors li strong{display:block; position:relative; top:-1px;left:-1px; min-width:82px;}
+#doors li a{position:relative; min-width:60px; _width:60px; margin:0; padding:2px 10px; font:normal 100% arial;}
+/*End: frontdoors_1.0.0.css ==============================*/
+      /*Begin: trough_1.0.2.css | Version Date: 2007-07-17 ==============================*/
+ 
+  #trough .bd{padding:0;}
+  #trough span{display:block; position:relative; margin:0 -1px 0 0; padding:5px;}  
+  #trough .btn-more-2{font-size: 95%; display:block; position:relative; top:0; left:0; padding:1px 2px; text-align:center; white-space:nowrap;}
+  #trough ul{border-bottom:1px solid #fff;}
+  #trough li.first{border-bottom-width:1px; border-bottom-style:solid; padding:3px 0 3px 5px;}
+  #trough li{border-width:0; padding:3px 0 3px 5px;}
+  #trough li a{background:url(http://l.yimg.com/us.yimg.com/i/ww/sp/trough-px_1.0.4.gif) 0 0 no-repeat;}
+  #trough li a{padding:3px 0 3px 25px; font:bold 84% verdana;}
+  #trough li.plink a{font:bold 122% arial;}
+  #trough li.tm{background:url(http://l.yimg.com/us.yimg.com/i/ww/misc/7x4_tm.gif) no-repeat 22px 16px;}
+  #trough li.mc{background:url(http://l.yimg.com/us.yimg.com/i/ww/misc/7x4_mc_1.gif) no-repeat 22px 16px;}
+  #trough-promo{border-top-style:solid; border-top-width:1px; background-position:0 -300px;}
+#trough li a sup{font-size:6px;}
+#trough li a em{font-size:1.2em;}
+/*End: trough_1.0.2.css ==============================*/
+      
+      
+      /*Begin: exceptional.css | Version Date: 2007-02-02 ==============================*/
+#exceptional{margin:0 0 10px 0; width:100%; overflow:hidden;}
+#en-img{position:relative; height:213px; border-width:1px; border-style:solid; overflow:hidden;}
+#en-img a,#en-img a:hover,#en-img a:visited,#en-img a:active{color:#fff;text-decoration:none;}
+#en-img a{display:block; height:213px;}
+#en-img img{_margin-bottom:-3px;}
+#en-trans{background:#16387c;opacity:0.7; moz-opacity:0.7; filter:alpha(opacity=70);}
+#en-hdr,#en-trans{position:absolute; bottom:0; left:0; width:100%; height:5.5em; _bottom:-1px;}
+#en-hdr{color:#fff;cursor:pointer;cursor:hand;}
+#en-hdr cite{font:77% verdana;padding-left:15px;color:#fff;padding-top:4px;}
+#en-hdr h3{font:152% georgia,times new roman;padding-left:15px;}
+#en-hdr h4{font:100% georgia,times new roman;padding-left:15px;margin-top:5px;}
+#en-details{border-width:1px; border-style: solid; border-top:none; padding:10px 15px;}
+#en-details:after{content:".";display:block;font-size:0px;line-height:0px;height:0;clear:both;visibility:hidden;}
+#en-details{zoom:1;_height:1px;}
+#en-details h5{color:#16387c;font:bold 100% arial;}
+#en-details p{color:#666;font:normal 100% arial;}
+#en-details a.more{font:bold 70% verdana;}
+#en-details .left,#en-details .right{float:left;}
+#en-details .left{width:52%;*width:55.5%;padding-right:15px;}
+#en-details ul{padding-left:15px;}
+/*End: exceptional.css ==============================*/	
+      /*Begin: today_1.0.0.css ==============================*/
+#today{min-height:234px; _height:234px;}
+#today.md{position:relative;}
+#today h3{font-size:122%; color:#16387c;}
+#today p{margin:5px 0;}
+#today .hd cite.timestamp{position:absolute; top:0.4em; right:10px; _top:0.5em;}
+#today .bd{position:relative; padding:5px 10px 4px; min-height:117px; _height:117px; background:#fff;}
+#today .bd img{float:left; margin-right:15px; width:156px; height:117px; padding:1px; border:1px solid #9dafbd; border-color:#9eb1c0 #677787 #677787 #9eb1c0;}
+#today .bd span{xfloat:left; margin:-2px 0 0; xwidth:55%; xwidth:auto;}
+#today .bd h3,#today .bd p,#today .bd ul{margin:0 0 6px;}
+#today .bd li{float:left;}
+#today .bd ol li{width:100%;}
+#today .bd li a{display:block; margin-right:10px; white-space:nowrap;}
+#today .ft{padding:0 5px 19px 9px; background:#fff; border:none;}
+#today .ft ul{padding:0; width:100%;}
+#today .ft li{position:relative; float:left; width:46%; margin-right:2%; height:2.3em; border:1px solid #fff; overflow:hidden;}
+#today .ft li br{display:none;}
+#today .ft li img{float:left; width:29px; height:21px; margin:0 5px 0 2px; padding:1px; border:1px solid #9eb1c0; border-color:#9eb1c0 #677787 #677787 #9eb1c0;}
+#today .ft li a{display:block; padding:2px 0; margin:1px; min-height:22px; _height:22px; font:normal 77% verdana;}
+/*KF CE*/
+#previewcontainer #today a.pencil{display:block; float:left; background:none; margin-right:1px; padding:0; border:none;}
+#previewcontainer #today a.pencil img.editor{display:block; width:auto; height:auto; margin:0;}
+#previewcontainer #today .kfrtp{font:normal verdana;}
+/*End: today_1.0.0.css ==============================*/
+      /*Begin: news_1.0.1.css | Version Date:2007-02-02 ==============================*/
+#news{background:#f5f7f6;}
+#newsbd{position:relative;background:#fff;padding:0;}
+#newstop{position:relative;padding:10px;padding-bottom:21px;min-height:115px;_height:115px;}
+#newstop i{color:#dadada;}
+#news.afterhours #newstop{min-height:142px;_height:142px;}
+#news .single-panel{padding-top:9px;min-height:163px;_height:163px;}
+#newsbottom{position:relative;padding:4px 10px;font:normal 77% verdana;color:#333;border-top:1px solid #fff; min-height:4em;}
+#newsft{margin:0; overflow:auto;}
+#news.afterhours #newsbottom{padding:4px 10px 6px;}
+#news.afterhours #markets{margin:0;}
+#markets h3{font:normal 100% verdana;display:inline;margin-right:5px;}
+#quotes a{color:#333;}
+#markets span{display:inline;}
+#markets ul,#markets li{display:inline;}
+#markets li{margin-right:10px;}
+#quotes{margin-top:5px;}
+#quotes a,#s{margin-right:5px;}
+input#s{font-size:107%;padding:1px;}
+#quotes .submit{font-size:100%;padding:0 3px;}
+#news #newstop ul li{background-image:url(http://l.yimg.com/us.yimg.com/i/ww/thm/1/icons.gif);background-repeat:no-repeat;background-position:-7px 1px;padding-left:9px;}
+#news #newstop ul li a:visited{color:#679;}
+#news #newstop.check ul li a:visited{background:url(http://l.yimg.com/us.yimg.com/i/ww/misc/menuchk8_blue_1.gif) no-repeat right center;padding-right:12px;}
+#news #newstop.noshade ul li a:visited{color:#16387c;}
+#news .bd li a cite{display:block;font:normal 77% verdana;color:#333;}
+#news .bd li a:hover cite{text-decoration:none;}
+#news #newstop ul.btn-more li{background:none;padding-left:0;}
+#news #newstop ul.btn-more li a:visited{color:#16387c;background:none;padding-right:0;}
+#news ul.btn-more{position:absolute;bottom:5px;margin:0;padding:0;color:#16387c;}
+#news ul.btn-more li{float:left; margin-right:5px;padding-right:5px;line-height:1em;border-right:1px solid #94a1c3;}
+#news ul.btn-more li.first{border:0;padding:0;font-weight:normal;}
+#news ul.btn-more li.last{border:0;margin:0;padding:0;}
+#news #newsbottom ul.btn-more{font-size:100%;position:static !important;display:block; padding:5px 0;}
+#news #newsbottom ul.no-sep li{border:none;}
+#news #newsbottom ul#footer-more-news{margin:0; border-width:1px 0 0 0; border-style:solid;}
+#news dl.inline{display:inline;margin:0 0 0 6px;border-left:1px solid #B0BEC7;}
+#news dl.inline dt{display:inline; padding-left:5px;}
+#news dl.inline dt a{ font:normal 77% verdana; padding-top:3px}
+#news dl.inline dt a.video:visited{background:url(http://l.yimg.com/us.js.yimg.com/i/ww/sp/icons_1.3.gif) no-repeat -3px -48px!important;}
+#news dl.inline dt a.slideshow:visited{background:url(http://l.yimg.com/us.js.yimg.com/i/ww/sp/icons_1.3.gif) no-repeat -3px -149px!important;}
+#news dl.inline dt a.search:visited{background:url(http://l.yimg.com/us.js.yimg.com/i/ww/sp/icons_1.3.gif) no-repeat -3px -200px!important;}
+#markets .up{color:#359c00;}
+#markets .down{color:#c00;}
+#videonewsct ul{margin-left:-5px;}
+#videonewsct li{float:left;margin:0 0 14px 5px;_margin-left:2px;width:49%;}
+#videonewsct li img{float:left;margin-right:5px;}
+#market_sponsor{width:165px;float:right; margin:-5px 0; padding:0;}
+#market_sponsor iframe{margin-top:3px;}
+.tweenerNews{position:relative;padding:7px 10px;margin:-5px -10px 10px;color:#979a9c;overflow:auto;_height:1px;_overflow:visible;}
+.tweenerNews h4{font-size:100%;}
+.tweenerNews img{float:left;width:42px;height:32px;margin-right:10px;padding:1px;background:#fff;border:1px solid #677787;}
+/*End: news_1.0.1.css ==============================*/
+      
+      /*Begin: photomodule.css | Version Date:2007-06-15 ==============================*/
+.photomodule .bd{padding:10px;}
+.photomodule .ft{padding:5px 10px; font:77% verdana,"Sans-Serif",arial,sans-serif; height:1em;}
+.photoslide{text-align:center;}
+.photoslide .mask{position:relative; width:384px; height:72px; overflow:hidden; margin:0 auto; _width:392px;_margin-right:-8px;}
+.photoslide .masked{position:absolute; top:0; left:0; width:1200px;}
+.photoslide .masked ul{float:left;}
+.photoslide .masked li{width:92px; float:left; margin:0 2px 0 2px;}
+.photoslide .masked li img{display:block;border:1px solid #9dafbd;}
+.photomodule .photonav{position:relative; height:22px; margin-top:5px;}
+.photomodule .photoled{display:block; position:relative; height:7px; top:8px; overflow:hidden; margin:0 auto; text-align:center; text-indent:-1000em; background-repeat:no-repeat; background-position:center top;}
+.photomodule .photobtns{height:22px; position:absolute; width:100%; left:0; top:0;}
+.photomodule .photobtns li{position:absolute; top:0; width:26px;}
+.photomodule .photobtns li.prev{position:absolute; left:0;}
+.photomodule .photobtns li.next{position:absolute; right:0;}
+.photomodule .photobtns li a{display:block; font-size:0; line-height:0; width:26px; height:22px; background:url(http://l.yimg.com/us.yimg.com/i/ww/sp/pm/pm_navbtns.gif) no-repeat; overflow:hidden; text-indent:-1000em; outline:none;}
+.photomodule .photobtns li.next a{background-position:-60px 0;}
+dl.list-more{color:#16387c;}
+dl.list-more dt, dl.list-more dd{float:left; margin-right:5px; padding-right:3px; line-height:1em; border-right:1px solid #94a1c3; font-weight:bold;}
+dl.list-more dd a,dl.list-more dd strong,dl.list-more em{line-height:1em;}
+dl.list-more dd a:visited{color:#16387c;}
+dl.list-more dt{border:0;padding:0;font-weight:normal; margin-right:3px;}
+dl.list-more dd.last{border:0;margin:0;padding:0;}
+.photomodule .ft ul{float:left;}
+.photomodule .ft ul *{line-height:1em;}
+/*KF fix*/
+.photomodule a.pencil img{display:block;}
+/*End: photomodule.css ==============================*/
+      
+      /*Begin: marketplace_1.0.2.css ==============================*/
+#marketplace .bd{_height:1px; _overflow:visible;}
+#marketplace table{margin-bottom:-5px; }
+#marketplace hr{display:block; margin:4px 0 3px; _margin:-3px 0; border-top:1px solid #dce3e9; color:#dce3e9;}
+/*End: marketplace_1.0.2.css ==============================*/
+      /*Begin: pa_1.0.2.css ==============================*/
+#pabd{overflow:hidden; _height:1px; _overflow:visible; border:1px solid #c9d7e2; border-width:0 1px 1px 0;}
+#patop{position:relative; padding:8px 9px 9px 9px;}
+#patop .so{padding:2px 0; }
+#patop .so a{font-weight:bold;}
+#reg h2{font:normal 122% arial;}
+#reg h2 a{font-weight:bold;}
+#reg h2 strong{color:#16387c;}
+#signup,#signout{position:absolute; top:10px; right:10px;}
+#signout{top:11px; font:normal 77% verdana;}
+#patabs .papreviewdiv span{display:none;}
+#patabs .papreviewdiv span.current{display:block;}
+#patabs #tabs2previewdiv{margin:0 3px 4px 4px; _margin-top:-6px;}
+#patabs{padding:0 2px 2px 5px; margin-top:-5px;}
+#patabs ul.patabs{position:relative; z-index:10; margin-bottom:2px;}
+#patabs ul.patabs li{color:#8899a9; float:left; min-width:113px; width:33.2%;}
+#patabs ul.patabs li div{background:#9dadc4; display:block; position:relative; z-index:2; margin:4px 3px 0;}
+#patabs ul.patabs li.first div{margin-left:1px;}
+#patabs ul.patabs li.last{float:right;}
+#patabs ul.patabs li.last div{margin-right:4px;}
+#patabs ul.patabs li h4{background:#6b7fa0;}
+#patabs ul.patabs li.tab-on div{background:#fff;}
+#patabs ul.patabs li h4,#patabs ul.patabs li a{display:block; position:relative; z-index:2; top:-1px; font:bold 92% verdana;}
+#patabs ul.patabs li a{position:relative; top:-1px; left:-1px; display:block; min-height:28px; _height:28px; font:bold 92% verdana; border:1px solid #c9d6de; border-color:#aec0ce #3d5360 #3d5360 #aec0ce; background:#fff; z-index:20; padding:1px 0; *padding:0;}
+#patabs ul.patabs li.tab-on a{margin:-1px -1px -3px; top:0; left:0; border-color:#566c7a #c2d0d9 #c2d0d9 #c2d0d9; border-width:1px 0 0; background:#fff url(http://l.yimg.com/us.yimg.com/i/ww/t4/pa-preview-shadow.gif) repeat-x;}
+#patabs ul.patabs li.first a{border-left-width:1px; padding-left:0;}
+#patabs ul.patabs li.last a{border-right-width:1px; padding-right:0;}
+#patabs li.tab-on .icon{padding-bottom:17px;}
+#patabs li .icon{display:block; z-index:10; padding:8px 0 9px 40px; background:url(http://l.yimg.com/us.yimg.com/i/ww/sp/pa-icons_1.0.0.gif) 5px 3px no-repeat;}
+#patabs #messenger .icon{padding-left:31px; background-position:2px -497px;}
+#patabs #music .icon{background-position:5px -197px;}
+#patabs #answers .icon{padding-left:36px; background-position:5px -695px;}
+#patabs #weather .icon{background-position:5px -297px;}
+#patabs #traffic .icon{background-position:5px -397px;}
+#patabs #movies .icon{background-position:5px -597px;}
+#patabs #horoscope .icon{padding-left:29px; background-position:3px -797px;}
+#patabs #maps .icon{background-position:5px -897px;}
+#patabs #games .icon{background-position:5px -997px;}
+#patabs #groups .icon{background-position:5px -1097px;}
+#patabs #sports .icon{background-position:5px -1197px;}
+#patabs #telemundo .icon{padding-left:31px; background-position:2px -1297px;}
+#patabs #autos .icon{background-position:5px -1397px;}
+#patabs .papreviewdiv{position:relative; z-index:5; display:none; margin:-2px 3px 3px 0; border:1px solid #c4cfd5; border-top-color:#566c7a; background:#fff url(http://l.yimg.com/us.yimg.com/i/ww/t4/pa-preview-shadow.gif) repeat-x; overflow:visible;}
+#patabs .papreviewdiv .ft{border:none; background:none;}
+#patabs li.tab-on a.details span.icon{padding-bottom:12px; *padding-bottom:13px;}
+#patabs li a.details b{display:block; margin-top:-1px; *margin-bottom:-1px; padding-right:2px; font-size:9px; font-weight:normal;}
+#patabs li .details .icon{padding:3px 0 4px 40px;*padding-bottom:5px;}
+/*End: pa_1.0.2.css ==============================*/ 
+      
+      
+      #ad{text-align:center;}
+      /*Begin: pulse.css ==============================*/
+#pulse{position:relative; min-height:202px; _height:202px;}
+#pulse .btn-more{z-index:50;}
+/*Begin: pulse.css ==============================*/
+      /*Begin: popsearch.css ==============================*/
+#popsearch, #popsearch2{height:10.3em; *height:10.6em;_height:10.3em;}
+#popsearch span, #popsearch2 span{font:normal 92% arial;}
+#popsearch .bd, #popsearch2 .bd{padding:10px 3px 0.5em 3px;}
+#popsearch ol,#popsearch2 ol{float:left;width:49.5%;}
+#popsearch li:after, #popsearch2 li:after{content:".";display:block;font-size:0px;line-height:0px;height:0;clear:both;visibility:hidden;}
+#popsearch li{border:1px solid transparent;_border:0;padding-left:16px;padding-right:3px;margin-bottom:6px;font:bold 77%/150% verdana;
+background:url(http://l.yimg.com/us.yimg.com/i/pulse/06q3/p_numb2.gif) 0 0 no-repeat;}
+#popsearch2 li{border:1px solid transparent;_border:0;padding-left:16px;padding-right:3px;margin-bottom:6px;font:bold 77%/150% verdana;
+background:url(http://l.yimg.com/us.yimg.com/i/pulse/bullet_ul.gif) 2px 5px no-repeat;}
+#popsearch li.tt1{background-position:0 -1px;}
+#popsearch li.tt2{background-position:0 -39px;}
+#popsearch li.tt3{background-position:0 -77px;}
+#popsearch li.tt4{background-position:0 -115px;}
+#popsearch li.tt5{background-position:0 -153px;}
+#popsearch li.tt6{background-position:0 -190px;}
+#popsearch li.tt7{background-position:0 -229px;}
+#popsearch li.tt8{background-position:0 -267px;}
+#popsearch li.tt9{background-position:0 -305px;}
+#popsearch li.tt10{background-position:0 -343px;}
+#popsearch li a, #popsearch2 li a{display:block;margin-top:1px;*margin-top:-1px;_margin-top:0;}
+#popsearch li a, #popsearch2 li a{float:left;}
+/*End: popsearch.css ==============================*/
+      /*Begin: footer.css | Version date: 20007-07-23 ====================*/
+#footer{clear:both; color:#16387c; text-align:center; padding:10px; margin:0 0 10px; border-width:1px 0 0; font:80% verdana;}
+#footer ul{margin-bottom:0.6em}
+#footer li{display:inline; padding-right:5px; *padding-right:2px; *margin-left:5px; border-right:1px solid #b0bec7;}
+#footer li.last{border:0;}
+#copyright{margin-left:-5px; *margin-left:5px; color:#666;}
+.feedback {border-right:1px solid #16387c; margin-right:10px;}
+/*End: footer.css ===================================================*/
+      
+      /*Begin: styles.br_1.0.0.css | Version Date: 2007-03-26 ==============================*/
+/*eyebrow*/
+#shpd1{left:33em !important;}
+.shdw .shp{background:url(http://us.i1.yimg.com/us.yimg.com/i/ww/ydrag_br_1.0.gif) !important;}
+/*general*/
+.novo{background:url(http://l.yimg.com/us.yimg.com/i/br/misc/18x5_novo.gif) 100% 0 no-repeat; padding-right:20px;}
+.natal{background:url(http://l.yimg.com/us.yimg.com/i/br/misc/25x5_natal_2.gif) 100% 0 no-repeat; padding-right:23px;}
+/*frontdoors*/
+#mailbtn{margin-left:10px;}
+#mailbtn{position:absolute; left:0; bottom:34px; background:0; border:0;}
+#mailbtn{border:none;}
+#mailbtn li{float:left; margin:0 0 0 5px; background:#dde6eb;}
+#mailbtn li strong{display:block; position:relative; top:-1px;left:-1px; min-width:82px; background:#FFFFFF !important;}
+#mailbtn li a{position:relative; min-width:150px; _width:173px; margin:0; padding:2px 10px !important; font:normal 105% arial;}
+#doors {margin-left:0px; padding-top:7px; padding-bottom:4px; position:relative; background:transparent none repeat scroll 0pt 50%; border:0pt none; bottom:0px; left:9px; float:left; max-height:17px !important;}
+.a11y, legend {left:-5000px; position:absolute; width:100px;}
+#mastheadbd {height:9.8em; _height:9.4em; margin:0pt auto 10px; min-height:106px; position:relative; text-align:left; z-index:1000;}
+#mastheadbd .mh_footer {background-position:0pt -1336px; bottom:0pt; _bottom:-1pt; clear:both; position:absolute; width:100%; font-size:85%; *position:static; margin-top:2px; _margin-top:24px; *margin-top:34px; background-image:url(http://l.yimg.com/us.yimg.com/i/ww/thm/1/grd-1px_1.3.gif); background-repeat:repeat-x;}
+#doors li{margin:0px !important;}
+#doors li a, #doors li {border: 0px !important; background:none !important;}
+#doors li a, #doors li strong {display:block; margin:-1px 1px; padding:3px 1em; position:relative;}
+#doors li.first {margin-right:10px;}
+#doors li.first strong {background:#778A98 none repeat scroll 0% !important; border:0px !important; text-align:center;}
+#doors li.middle a{width:auto; text-align:center;}
+#doors li strong {color:#FFFFFF; left:0px !important;}
+#doors #mybeta {background:transparent url(http://us.i1.yimg.com/us.yimg.com/i/ww/sp/icons_1.7.gif) no-repeat scroll 1px -772px; display:block; height:21px; left:4px; position:absolute; text-decoration:none; top:-17px; width:43px; z-index:100;}
+#pagesettingscx {bottom:5px;*bottom:3px;_bottom:5px !important;}
+#navbardate cite {border-right:1px solid #CAD5DB; color:#8C8C8C; display:inline; font-family:arial; font-size:85%; font-size-adjust:none; font-stretch:normal; font-style:normal; font-variant:normal; font-weight:normal; line-height:normal; margin-right:0.7em; padding-right:0.9em; text-align:right; float:left; width:200px;}
+a#editpage {position:relative; font-family:arial !important; font-size:85% !important;}
+/*logo*/
+#masthead h1{margin-top:7px;}
+/*news*/
+#news .hd ul li{width:49.9%}
+#newstop{min-height:85px; _height:85px;}
+#newsft{position:relative; overflow:hidden; _height:1px; _overflow:visible}
+/*pa*/
+#patabs #answers .icon{padding-left:35px; background-position:5px -695px;}
+/*pagesettings*/
+#pagesettings{width:13em;}
+/*search*/
+#searchwrapper{top:5px}
+/*searchmore*/
+#vsearchtabs dl dt a{background-position:1.9em -407px;}
+#vsearchtabs dt a:hover, #vsearchtabs dt a.on{background-position:1.9em -454px;*background-position:1.9em -453px; _background-position:1.95em -453px;}
+#vsearchtabs dt a.on, #vsearchtabs dt a.on:hover{background-position:1.9em -505px;*background-position:1.9em -504px; _background-position:1.95em -504px;}
+/*today*/
+#today .hd ul li{width:33.1%;}
+/* popsearch.css */
+#popsearch, #popsearch2{height:12.3em; *height:12.6em;_height:12.3em;}
+/*End: styles.br_1.0.0.css ==============================*/ 
+</style>
+<script language="javascript" type="text/javascript">
+      var now=new Date,t1=0,t2=0,t3=0,t4=0,t5=0,t6=0,t7=0,t8=0,t9=0,t10=0,t11=0,t12=0,cc='',ylp='';t1=now.getTime();
+      dCC="br"; // default country code
+            dD="br.yahoo.com"; // default domain
+      //Begin: yintl.br_1.0.0.js | Version date: 2008-03-10
+//Spirit Americas YINTL BR pack
+
+YINTL={yLogo:'<img id="ylogoimg" src="http://l.yimg.com/us.yimg.com/i/br/homepage/br_logo_197x54.gif" alt="Yahoo! Brasil" title="Yahoo! Brasil" height="54" width="197">',Search:{texts:['Web','Imagens','Vídeos','Notícias','Shopping'],frCodes:['yfp-t-340','yfp-t-340','yfp-t-340','yfp-t-340','yfp-t-340'],btnTexts:['Buscar na web','Buscar imagens','Buscar vídeos','Buscar notícias','Buscar produtos'],fActions:['r/bswb','r/bsib','r/bsvb','r/bsnb','r/bssb'],moreHTML:'<div><ul><li class="first"><a href="r/bsmo" class="vs_movies">Cinema</a></li><li><a href="r/bsan" class="vs_answers">Respostas</a></li><li><a href="r/bsmu" class="vs_music">Música</a></li><span></span><ul><li class="last"><a href="r/bsss" class="vs_links">Links patrocinados</a></li></ul></ul></div>',moreParams:{vs_music:'&s='}},PA:{loadingText:'Carregando',oErrorManager:{mail:{html:'visite <a href="http://br.mail.yahoo.com">br.mail.yahoo.com</a> para receber seus e-mails.</li><li class="last"><a href="http://br.mail.yahoo.com">&#187; Ir para e-mail',error:false},messenger:{html:'inicie o <a href="http://br.messenger.yahoo.com">Y! Messenger</a> para ver seus amigos online.</li><li class="last"><a href="ymsgr:SendIM">&#187; Iniciar o Messenger',error:false},template:{templateHdr:'<div class="pa-alert error"><ul><li class="first">Por favor, ',templateFtr:'</a></li></ul></div>'}},Mail:{newText:'Novos',newTextSing:'Novo'}},dateTime:{months:['Jan','Fev','Mar','Abr','Mai','Jun','Jul','Ago','Set','Out','Nov','Dez'],weekDays:['Dom','Seg','Terça','Qua','Qui','Sex','Sab'],datePattern:'weekDay+", "+day+" "+month+" "+year+" - "',datePlace:'pagesettingscx'},makeYHome:{ie:true,ff:true,ffHTML:'<div class="bd"><div id="pnt"></div><a title="Yahoo! Brasil" class="shp" href="http://br.yahoo.com/"><strong>Yahoo!</strong></a><ol><li>Arraste o &quot;Y!&quot; &agrave; esquerda e solte-o sobre o &iacute;cone da &quot;casa&quot; no menu.</li><li>Clique em &quot;Sim&quot; na janela que se abrir&aacute;.</li></ol><div class="hr"></div><p>Caso n&atilde;o tenha dado certo ou queria mais instru&ccedil;&otilde;es <a href="http://br.rd.yahoo.com/hp/ws/ipr/*http://br.yahoo.com/homepageset.html">clique aqui</a>.</p></div>'}};
+//End: yintl.br_1.0.0.js
+</script>
+<script language=javascript>var sss=0,lck='',ylp='',_lcs='';</script>
+<script type="text/javascript">/*Begin: sp.init_1.0.3.js | Version date: 2007-10-24*/
+var YAHOO=window.YAHOO||{};YAHOO.namespace=function(_1){if(!_1||!_1.length){return null;}var _2=_1.split(".");var _3=YAHOO;for(var i=(_2[0]=="YAHOO")?1:0;i<_2.length;++i){_3[_2[i]]=_3[_2[i]]||{};_3=_3[_2[i]];}return _3;};YAHOO.namespace("util");YAHOO.namespace("widget");YAHOO.namespace("example");YAHOO.namespace("Fd");YAHOO.namespace("Fp");YAHOO.namespace('browser');YB=YAHOO.browser;var d=document;YAHOO.Fp.d=d;YAHOO.Fp.dCC=typeof(dCC)!='undefined'?dCC:'';YAHOO.Fp.dD=typeof(dD)!='undefined'?dD:'yahoo.com';YAHOO.Fp.$=function(id){return(typeof(id)=='string')?YAHOO.Fp.d.getElementById(id):false;}
+YAHOO.cookie={get:function(n){var v='',c=' '+document.cookie+';',s=c.indexOf((' '+n+'='));if(s>=0){s+=n.length+2;v=unescape(c.substring(s,c.indexOf(';',s)));}
+return v;},set:function(n,v){var a=arguments,al=a.length;document.cookie=n+"="+v+
+((al>2&&a[2]!="")?";expires="+(new Date(a[2]*1000)).toGMTString():"")+";path="+((al>3&&a[3]!="")?a[3]:"/")+";domain="+((al>4&&a[4]!="")?a[4]:dD);},setFrom:function(n,v){var a=arguments,al=a.length;if(al>2&&a[2]!=""){var objDate=new Date();var expireDate=objDate.getTime()+(a[2]*1000);objDate.setTime(expireDate);expireDateGMT=objDate.toGMTString();}
+document.cookie=n+"="+v+
+((al>2&&a[2]!="")?";expires="+expireDateGMT:"")+";path="+((al>3&&a[3]!="")?a[3]:"/")+";domain="+((al>4&&a[4]!="")?a[4]:dD);},checksub:function(sCookie,s){var aParts=sCookie.split('&'),nParts=aParts.length,aKeyVal;if(nParts==1){return sCookie.indexOf(s);}else{for(var i=0;i<nParts;i++){aKeyVal=aParts[i].split('=');if(aKeyVal[0]==s){return i;}}}
+return-1;},getsub:function(n,s){var sCookie=this.get(n);var nExists=this.checksub(sCookie,s);if(nExists>-1){return sCookie.split('&')[nExists].split('=')[1];}else if(sCookie.indexOf(s)>0){return sCookie.split('=')[1];}
+return'';},setsub:function(n,s,v){var sCookie=this.get(n),a=arguments,al=a.length;var aParts=sCookie.split('&');var nExists=this.checksub(sCookie,s);if(sCookie==''){sNewVal=(s+'='+v).toString();}else{if(nExists==-1){nExists=aParts.length;}
+aParts[nExists]=s+'='+v;sNewVal=aParts.join('&');}
+return this.set(n,sNewVal,(a[3]||''),(a[4]||'/'),(a[5]||dD));}}
+if(typeof(ver)=="undefined"){var ver="340";}YAHOO.Fp.pageSize=0;YAHOO.Fp.nScreenWidth=(screen&&typeof(screen.availWidth)=='number')?screen.availWidth:false;YAHOO.Fp.bNarrow=(YAHOO.Fp.nScreenWidth?(YAHOO.Fp.nScreenWidth<1024?1:0):-1);YAHOO.Fp.minMax=function(){if(document.getElementById("client")){var nFontSize=document.getElementById("client").offsetHeight;document.getElementById("page").style.width=(nFontSize<=16?"950px":(nFontSize>23?"1250px":"71.25em"));}};YAHOO.Fp.LoadFP=function(){var sFsCookie=YAHOO.cookie.get("FPS");if(sFsCookie!="dl"&&sFsCookie!="ds"&&sFsCookie!="tl"&&sFsCookie!="ts"){if(YAHOO.Fp.bNarrow!=-1){if(YAHOO.Fp.bNarrow==0&&YAHOO.Fp.pageSize==0){YAHOO.cookie.set("FPS","dl",400*3600000);}
+if(YAHOO.Fp.bNarrow==1&&YAHOO.Fp.pageSize==0){YAHOO.Fp.togglePageSize("ds");}}}else{if((sFsCookie=="dl"||sFsCookie=="tl")&&YAHOO.Fp.pageSize==1){YAHOO.Fp.togglePageSize("ds");}
+if((sFsCookie=="ds"||sFsCookie=="ts")&&YAHOO.Fp.pageSize==0){YAHOO.Fp.togglePageSize("dl");}}};YAHOO.Fp.togglePageSize=function(sFsCookieValue){YAHOO.cookie.set("FPS",sFsCookieValue,400*3600000);var sFsCookie=YAHOO.cookie.get("FPS");if(sFsCookieValue==sFsCookie){location.reload();}};YB.UA=navigator.userAgent;YB.ua=navigator.userAgent.toLowerCase();YB.UAExps={Opera:/Opera\//,FF:/Firefox\//,IE:/MSIE/,IE6:/MSIE 6\.0/,IE7:/MSIE 7\.0/}
+YB.Opera=YB.UAExps.Opera.test(YB.UA);YB.FF=YB.UAExps.FF.test(YB.UA);YB.IE=YB.UAExps.IE.test(YB.UA);YB.IE6=YB.UAExps.IE6.test(YB.UA);YB.IE7=YB.UAExps.IE7.test(YB.UA);YB.MAC=YB.ua.indexOf("mac")!=-1;YB.MACIE=YB.MAC&&document.all;YAHOO.Fp._ie=YB.IE==true?1:0;YAHOO.Fp._ie6=YB.IE6==true?1:0;YAHOO.Fp._ie7=YB.IE7==true?1:0;YAHOO.Fp._ff='1';YAHOO.Fp._ffv='2.0.0';YAHOO.Fp._sf='0';YAHOO.Fp._sfv='0';YAHOO.Fp._op='0';YAHOO.Fp._mac='0';YAHOO.Fp._protocol=location.protocol;YAHOO.Fp._hostname=location.hostname;YAHOO.Fp._port=location.port;YAHOO.Fp._sUrl=YAHOO.Fp._protocol+'//'+YAHOO.Fp._hostname+(YAHOO.Fp._port!=''?':'+YAHOO.Fp._port:'');YAHOO.Fp._ylh=typeof(YLH)!='undefined'?YLH+'/':'';YAHOO.Fp.kfVersion=1.2;YAHOO.Fp.kfPrefix='';YAHOO.Fp.LoadFP();
+/*End: sp.init_1.0.3.js*/</script>
+<script type="text/javascript" src="http://l.yimg.com/us.js.yimg.com/lib/latam/sp/js/yui_2.3.1.js"></script>
+<script type="text/javascript" src="http://l.yimg.com/us.yimg.com/lib/latam/sp/js/sp_1.8.4.js"></script>
+
+
+<script type="text/javascript">/*Begin: sp_load | version 1.0.8 | Version date: 2008-03-06*/
+var d=d?d:document;if(YAHOO.util){YUTIL=YAHOO.util;};if(YAHOO.util.Event){YUEVT=YAHOO.util.Event;};if(YAHOO.util.Dom){YUDOM=YAHOO.util.Dom;};if(YAHOO.Fp){YFP=YAHOO.Fp;};if(YAHOO.Fd){YFD=YAHOO.Fd;};var frcode;ygUltOnLoad();var FPMCookie=YAHOO.cookie.get("FPM");if(FPMCookie){eval("YAHOO.FPM="+FPMCookie+";");}
+else{YAHOO.FPM={today:{tab:1,story:1},news:{tab:1}};};YFP.todayStoryOrder=YFP.todayStoryOrder?YFP.todayStoryOrder:new Array;YFP.todayTabOrder=YAHOO.FPM.today.tab;YFP.todayStoryOrder[YFP.todayTabOrder]=YAHOO.FPM.today.story;YFP.newsTabOrder=YAHOO.FPM.news.tab;var sThemeCookie=YAHOO.cookie.get("FPC");var setTheme=new YFP.oPageSettings;setTheme.loadTheme(sThemeCookie,setTheme);YFP.queryString=function(){var Qs={};var q=window.location.search;if(q.length>1)q=q.substring(1,q.length);var parts=q.split('&');for(i=0;i<parts.length;i++){pairs=parts[i].split('=');Qs[pairs[0]]=pairs[1];};return Qs;};YFP.Qs=YFP.queryString();YFP.checkQsFrCode=function(frc){var aPFr=(YINTL.Search&&YINTL.Search.aPFr)?YINTL.Search.aPFr:['wiisp','operafp'];var m=false;for(i=0;i<aPFr.length;i++){if(aPFr[i].match(frc)){m=true;break;}
+else{m=false;};};return m;};YFP.setupSearch=function(){if(document.getElementById("vsearchtabs")){if(YFP.setupfAction){d.sf1.action=YFP.setupfAction(d.sf1.action);};var verts=new YAHOO.Fp.tabs("vsearchtabs");verts.changeAction(YAHOO.Fp.changeVert,{"obj":verts});verts.setupTabs();if((YINTL.Search&&YINTL.Search.frCodes)&&(YFP.Qs&&YFP.Qs.fr)){var fr=YFP.Qs.fr;if(YFP.checkQsFrCode(fr)){var _l=YINTL.Search.frCodes.length;for(i=0;i<_l;i++){YINTL.Search.frCodes[i]=fr;};};};document.sf1.fr.value=(YINTL.Search&&YINTL.Search.frCodes)?YINTL.Search.frCodes[0]:"yfp-t-340";document.getElementById("searchoptions").style.display='block';if(document.getElementById("v10")){document.getElementById("v10").disabled=false;};if(document.getElementById("v11")){document.getElementById("v11").disabled=false;};if(document.getElementById("v12")){document.getElementById("v12").disabled=false;};YAHOO.Fp.oSearch.currentTab='Web';frcode=document.sf1.fr.value;};if(d.getElementById('vslist')&&YFP.oSearch.searchMore){YFP.oSearch.searchMore();}
+if(d.getElementById('e2e')&&YAHOO.Fp.oSearch.AutoComplete){YFP.oSearch.AutoComplete=YFP.oSearch.AutoComplete();}};YFP.setupExceptional=function(){if(d.getElementById('exceptional')){if(d.getElementById('today')){var _today=d.getElementById('today');};YFP.updateTimeStamp('en-hdr');};};YFP.setupToday=function(){var todayTabs=new YFP.tabs('todaytabs');todayTabs.changeAction(YFP.loadPanel,{'type':'tab','module':'today','load':'story,footer'});todayTabs.setupTabs();YFP.todayTabs=todayTabs;if(YAHOO.FPM.today.tab){var objTabs=d.getElementById('todaytabs');var tabOrder=parseInt(YAHOO.FPM.today.tab);var items=objTabs.getElementsByTagName('a');var actualTab=items[tabOrder-1];todayTabs.fAction(todayTabs.oActionVars,actualTab,todayTabs);};var datePlace=(YINTL.dateTime&&YINTL.dateTime.datePlace)?YINTL.dateTime.datePlace:"todaybd";YFP.updateTimeStamp(datePlace);YFP.todayFauxTabs=new YFP.fauxTabs(YFP.todayTabs);YFP.todayFauxTabs.setup();};YFP.setupNews=function(){var newsTabs=new YFP.tabs('newstabs');newsTabs.changeAction(YFP.loadPanel,{'type':'tab','module':'news','load':'story'});newsTabs.setupTabs();YFP.newsTabs=newsTabs;if(YAHOO.FPM.news.tab){var objTabs=d.getElementById('newstabs');var tabOrder=parseInt(YAHOO.FPM.news.tab);var items=objTabs.getElementsByTagName('a');var actualTab=items[tabOrder-1];newsTabs.fAction(newsTabs.oActionVars,actualTab,newsTabs);};YFP.newsFauxTabs=new YFP.fauxTabs(YFP.newsTabs);YFP.newsFauxTabs.setup();};YFP.setupPageSettings=function(){YFP.pageSettings=new YFP.oPageSettings();d.getElementById("editpage").onclick=function(){YFP.pageSettings.toggle();return false;};if(d.getElementById("sizetogglelink")){d.getElementById("sizetogglelink").onclick=function(){YFP.togglePageSize("ts");return false;};}var sThemeCookie=YAHOO.cookie.get("FPC");YFP.pageSettings.loadThemeOnLoad(sThemeCookie,YFP.pageSettings);YFP.oPageSettings.prototype.sCurrentTheme=sThemeCookie!=""?sThemeCookie:"t1";var aIds=["t1","t2","t3","t4","t5","t7"];YUEVT.addListener(aIds,"mousedown",YFP.pageSettings.applyTheme,YFP.pageSettings);d.getElementById("t1").onclick=function(){return false;};d.getElementById("t2").onclick=function(){return false;};d.getElementById("t3").onclick=function(){return false;};d.getElementById("t4").onclick=function(){return false;};d.getElementById("t5").onclick=function(){return false;};d.getElementById("t7").onclick=function(){return false;};};YUEVT.onAvailable('sizetogglelink',YFP.setupPageSettings);YFP.setupRedirectWindowShade=function(){if(d.getElementById('ws')){var cookieNOWS = YAHOO.cookie.get('NOWS');if(cookieNOWS==''){cookieNOWS = 0;}if(parseInt(cookieNOWS)<2){var RedirectWindowShade=new YFP.windowShade('ws','64px','ws_close',1,null,false,true);RedirectWindowShade.load();cookieNOWS =  parseInt(cookieNOWS)+1;}YAHOO.cookie.set('NOWS',cookieNOWS,Math.round(new Date().getTime()/1000)+3600*24*3650, '', 'yahoo.com');RedirectWindowShade.objClose.onclick=function(){YAHOO.cookie.set('NOWS',3,Math.round(new Date().getTime()/1000)+3600*24*3650, '', 'yahoo.com');RedirectWindowShade.Close();return false;};}};YFP.setupPhotomodule=function(){if(d.getElementById('photomodule1')){var photoModule1=new YFP.Photomodule('photomodule1',0.5,{automatic:true});photoModule1.setup();}};YFP.setupKeyDown=function(){function fKeyDown(e){e=window.event||e;var src=e.srcElement||e.target;var code=e.keyCode,id=e.id,gk,_ffs=0;if(code==13){return;}else if((code==191||code==222)&&id!='fp'&&_ffs){_ffs=1;gk=0;}else if((code<31||code>41)&&(code<16||code>18)&&code!=9&&code!=8){gk=1;}
+else{gk=0;};if(!_ffs&&gk==1&&src.type!='text'&&!e.ctrlKey&&!e.altKey){d.sf1.p.focus();}};YUEVT.addListener(d,"keydown",fKeyDown);};YUEVT.onAvailable('p',YFP.setupKeyDown);YUEVT.onAvailable('sethomepage',function(){makeyhomeEyebrow1 = new YFP.makeYHome();makeyhomeEyebrow1.args.btnId = "sethomepage";makeyhomeEyebrow1.args.shpdId = "shpd1";makeyhomeEyebrow1.setup();});YUEVT.onAvailable('sethomepage2',function(){makeyhomeEyebrow2 = new YFP.makeYHome();makeyhomeEyebrow2.args.btnId = "sethomepage2";makeyhomeEyebrow2.args.shpdId = "shpd2";	makeyhomeEyebrow2.setup();});YUEVT.onAvailable('searchoptions',YFP.setupSearch);YUEVT.onAvailable('exceptional',YFP.setupExceptional);YUEVT.onAvailable('todayft',YFP.setupToday);YUEVT.onAvailable('newsft',YFP.setupNews);YUEVT.onAvailable('photomore1',YFP.setupPhotomodule);YFP.init=function(){YFP.checkYLogo('mastheadbd');try{var todaySparkle=new YFP.setupSparkle(YFP.todayTabs);todaySparkle.init();}catch(es1){};YFP.trough=new YFP.oTrough();if(d.getElementById('trough-overlay')){d.getElementById("allyservices").onclick=function(){return false;};d.getElementById("allyservices").onmousedown=function(){YFP.trough.toggleTrough(0,{sAction:"all"});}};if(d.getElementById("ulmchange")){YUEVT.addListener("ulmchange","click",function(){YFP.changeLocation();return false;});d.getElementById("ulmchange").onclick=function(){return false;}};if(document.location.href.indexOf('p=us')!=-1){YFP.setupRedirectWindowShade();}now=new Date;t12=now.getTime();};YFP.load=function(){now=new Date;t11=now.getTime();_ult=(typeof(yguc)!="undefined")?1:0;YFP.init();};window.onload=YFP.load;
+/*End: sp_load_1.0.8.js*/</script>
+<base href="http://br.yahoo.com/_ylh=X3oDMTFiZWh2dnBrBF9TAzE4MzQyOTkyBHBpZAMyODI4OTMEdGVzdAMwBHRtcGwDYnJfaW5kZXg-/" target="_top" />
+<link rel="shortcut icon" href="http://www.yahoo.com/favicon.ico" />
+<script language="javascript" type="text/javascript">
+    now=new Date;
+    t2=now.getTime();
+    </script>
+</head>
+<body>
+  <div id="page">
+    
+    <style type="text/css">
+#ws{display:none; position:relative; background:url(http://us.i1.yimg.com/us.yimg.com/i/ar/ws/redirectws_bg_1_1.gif) bottom repeat-x; border:1px solid #dbe2e8;border-width:1px 1px 0px 1px; margin:5px 0px !important;}
+#ws .borderw{height:64px;}
+#ws .ynarrow {right:73px;}
+#ws #ws_left{background:url(http://us.i1.yimg.com/us.yimg.com/i/br/ws/flag_br_1.0.jpg) left top no-repeat;height:50px;_height:60px;}
+#ws #ws_left{width:235px;_width:360px;padding:10px 15px 0px 110px;float:left;}
+#ws #ws_center{width:350px;_width:410px; height:60px;float:left;display:block;background:url(http://us.i1.yimg.com/us.yimg.com/i/ar/ws/ws_sep_1_1.gif) left top no-repeat;padding:10px 30px 0px;}
+#ws #ws_right{width:200px;float:right;padding:5px 15px;text-align:right}
+#ws h3{font-size:15px;font-weight:bold;color:#18397c;margin-bottom:2px}
+#ws_nothanks{font-size:13px;font-weight:bold;color:#18397C;}
+#ws_goback{font-size:13px;font-weight:bold;color:#18397C;text-decoration:underline;}
+.ws_link{font-size:12px;font-weight:bold;color:#778a98;}
+#ws_close{position:absolute; right:8px; top:8px;cursor:pointer;}
+#coments{position:absolute;right:8px;top:33px;color:#778a98;font-size:11px;}
+</style>
+<div id="ws"  >
+  <div class="borderw fbody">
+    <div class="iemw" style="width:946px;" ></div>
+	<div id="ws_left"><h3>Explore Yahoo! made in Brazil</h3><span id="ws_nothanks">No Thanks, </span><a href="http://br.rd.yahoo.com/hp/ws/ipr/en/*http://www.yahoo.com" id="ws_goback" onclick="javascript:YAHOO.cookie.set('DNR','1',Math.round(new Date().getTime()/1000)+3600*24*3650, '', 'yahoo.com');">Back to Yahoo.com</a></div>
+	<div id="ws_center"><h3>Bem-vindo! Aproveite o Yahoo! feito no Brasil</h3><a  id="sethomepage" href="http://br.yahoo.com/_ylh=X3oDMTFnaW9wYWl1BF9TAzE4MzQyOTkyBHBpZAMyODE4OTEEdGVzdAMwBHRtcGwDYnJfaW5kZXhfdGVzdA--/r/beyy/*#" class="ws_link">Fa&ccedil;a do Yahoo! Brasil a sua homepage</a></div>
+	<img src="http://us.i1.yimg.com/us.yimg.com/i/ar/ws/ws_close_1_1.gif" id="ws_close" /><a href="http://br.rd.yahoo.com/hp/ws/ipr/*http://help.yahoo.com/l/br/yahoo/feedback.html" id="coments" target="_blank">Envie-nos seu feedback</a>  
+  </div>
+</div>
+    
+     
+    <div id="masthead">
+      <div id="mastheadhd">
+        <div id="eyebrow">
+   <div class="iemw" style="width:930px;" ></div>
+   <ul id="ypromo">
+   
+   <li><a id="sethomepage2" class="eyebrowborder" href="r/beyy/*#">Fa&ccedil;a do Yahoo! sua p&aacute;gina inicial!</a></li>    
+   
+   <li>
+	<a href="http://br.ard.yahoo.com/SIG=1529qtov1/M=541065.10558346.11177566.10226554/D=brtoppage/S=2022139719:EYE/Y=BR/EXP=1205467829/L=YeFficiYoYTDTHiWR8xxqAzwyRAUykfZ3pUAC7D0/B=9fSALsiYoJk-/J=1205460629771295/A=3849586/R=0/SIG=109t8hg1s/*http://"></a><a href="http://br.ard.yahoo.com/SIG=1529qtov1/M=541065.10558346.11177566.10226554/D=brtoppage/S=2022139719:EYE/Y=BR/EXP=1205467829/L=YeFficiYoYTDTHiWR8xxqAzwyRAUykfZ3pUAC7D0/B=9fSALsiYoJk-/J=1205460629771295/A=3849586/R=1/SIG=10ubp2tqn/*http://br.toolbar.yahoo.com/" target="_blank">Instale Y! Barra de Ferramentas</a><script language=javascript>
+if(window.yzq_d==null)window.yzq_d=new Object();
+window.yzq_d['9fSALsiYoJk-']='&U=13be8ok0k%2fN%3d9fSALsiYoJk-%2fC%3d541065.10558346.11177566.10226554%2fD%3dEYE%2fB%3d3849586';
+</script><noscript><img width=1 height=1 alt="" src="http://row.bc.yahoo.com/b?P=YeFficiYoYTDTHiWR8xxqAzwyRAUykfZ3pUAC7D0&T=156009s53%2fX%3d1205460629%2fE%3d2022139719%2fR%3dbrtoppage%2fK%3d5%2fV%3d2.1%2fW%3dHR%2fY%3dBR%2fF%3d2425656476%2fH%3dY2FjaGVoaW50PSIyMDIyMTM5NzE5Ig--%2fQ%3d-1%2fS%3d1%2fJ%3d8DA098C8&U=13be8ok0k%2fN%3d9fSALsiYoJk-%2fC%3d541065.10558346.11177566.10226554%2fD%3dEYE%2fB%3d3849586"></noscript>   </li>
+  </ul>
+  <div id="ffhpcx"></div>
+  <div id="headline">
+      	<a href="http://br.ard.yahoo.com/SIG=1535cjm78/M=541065.10558344.11177564.10226556/D=brtoppage/S=2022139719:EYE1/Y=BR/EXP=1205467829/L=YeFficiYoYTDTHiWR8xxqAzwyRAUykfZ3pUAC7D0/B=9vSALsiYoJk-/J=1205460629771295/A=4633787/R=0/SIG=109t8hg1s/*http://"></a> Yahoo! Encontros: <a href="http://br.ard.yahoo.com/SIG=1535cjm78/M=541065.10558344.11177564.10226556/D=brtoppage/S=2022139719:EYE1/Y=BR/EXP=1205467829/L=YeFficiYoYTDTHiWR8xxqAzwyRAUykfZ3pUAC7D0/B=9vSALsiYoJk-/J=1205460629771295/A=4633787/R=1/SIG=11hf21emo/*http://yahoo.parperfeito.com.br/jsp/welcome.jsp">Conhe&ccedil;a pessoas reais como voc&ecirc;</a><script language=javascript>
+if(window.yzq_d==null)window.yzq_d=new Object();
+window.yzq_d['9vSALsiYoJk-']='&U=13ck4iole%2fN%3d9vSALsiYoJk-%2fC%3d541065.10558344.11177564.10226556%2fD%3dEYE1%2fB%3d4633787';
+</script><noscript><img width=1 height=1 alt="" src="http://row.bc.yahoo.com/b?P=YeFficiYoYTDTHiWR8xxqAzwyRAUykfZ3pUAC7D0&T=156i5mep8%2fX%3d1205460629%2fE%3d2022139719%2fR%3dbrtoppage%2fK%3d5%2fV%3d2.1%2fW%3dHR%2fY%3dBR%2fF%3d3806887042%2fH%3dY2FjaGVoaW50PSIyMDIyMTM5NzE5Ig--%2fQ%3d-1%2fS%3d1%2fJ%3d8DA098C8&U=13ck4iole%2fN%3d9vSALsiYoJk-%2fC%3d541065.10558344.11177564.10226556%2fD%3dEYE1%2fB%3d4633787"></noscript>  </div>
+</div>
+      </div>
+      <div id="mastheadbd">
+        <span class="top"><span class="iemw"></span></span>
+        <h1 id="ylogo">
+           <img id="ylogoimg" src="http://us.i1.yimg.com/us.yimg.com/i/br/homepage/br_logo_197x54.gif" alt="Yahoo! Brasil" title="Yahoo! Brasil" height="54" width="197">           </h1>
+        <div id="searchwrapper">
+    <!--[if IE 6]>
+      <div id="searchIE"></div>
+      <![endif]-->
+   <![if !IE 6]>
+      
+      <img src="http://us.i1.yimg.com/us.yimg.com/i/ww/thm/1/search_1.1.png" id="searchother">
+      
+   <![endif]>
+    <form></form>
+    <form name="sf1" id="search">
+      <fieldset>
+      <legend>
+      Yahoo! Busca</legend>
+      <ul id="vsearchtabs">
+        <li class="first on"><a href="r/bswe">Web</a></li>
+        <li><a href="r/bsim">Imagens</a></li>
+        <li><a href="r/bsvi">V&iacute;deos</a></li>
+        <li><a href="r/bsne">Not&iacute;cias</a></li>
+	    <li><a href="r/bssh">Shopping</a></li>
+	    <li class="last ignore">
+                <dl id="vsearchm">
+                    <dt><a id="vsearchmore" href="r/bsms">mais</a></dt>
+                         <dd style="display:none;" id="vslist"></dd>
+          	  </dl>
+        </li>
+       </ul>
+      <div id="sbox">
+	    <label id="searchlabel" for="p">Buscar</label>
+        <div id="searchbox">
+          <input class="plong inputtext" type="text" id="p" name="p" accesskey="s">
+        </div>
+        <input type="submit" id="searchsubmit" name="searchsubmit" class="btn-more-2" value="Buscar na web">
+          
+        <input type="hidden" name="fr" value="yfp-t-340"> 
+        
+        <input type="hidden" name="toggle" value="1">
+        <input type="hidden" name="ei" value="UTF-8">
+        <input type="hidden" name="site_origem" value="511183">
+        <input type="hidden" name="yh" value="1">
+        <input type="hidden" name="force" value="-1">
+        <input type="hidden" name="lkout" value="1"> 
+  
+     <script language="javascript">
+          document.sf1.site_origem.disabled=true;
+          document.sf1.yh.disabled=true;
+          document.sf1.force.disabled=true;
+          document.sf1.lkout.disabled=true;
+          document.sf1.p.focus();
+          document.sf1.action = "r/bswb";
+             
+          document.sf1.fr.value = (YINTL.Search && YINTL.Search.frCodes)?YINTL.Search.frCodes[0]:"yfp-t-340";
+          
+      </script>
+      </div>
+      <div id="sboxfooter">
+        <div id="sboxanswers">           <span class="answers" style="background:url(http://l.yimg.com/us.js.yimg.com/i/ww/sp/icons_1.3.gif) no-repeat 0 -200px; ">           
+<a linkindex=14 href=s/429312>Elei&ccedil;&otilde;es nos EUA</a> - <a linkindex=14 href=s/429313>BBB</a> - <a linkindex=14 href=s/429314>Previs&atilde;o do tempo</a></span>           </div> 
+         <div id="searchoptions">
+            <input name="rd" value="r1" id="v10" checked="checked" type="radio">
+			<label for="v10">Na web</label>
+			<input name="rd" value="r2" id="v11" type="radio">
+			<label for="v11">Portugu&ecirc;s</label>
+          </div>
+      </div>
+      </fieldset>
+    </form>
+  </div>
+        <script language="javascript" type="text/javascript">
+          now=new Date;
+          t3=now.getTime();
+          </script>
+        <div class="mh_footer">
+	<div id="doors">
+		<h3 class="a11y">Popular Yahoo! Properties</h3>
+		<ul id="mailbtn">
+			<li><strong><a title=" Yahoo! Mail: único ilimitado" href="r/bbma"> Yahoo! Mail: único ilimitado</a></strong></li>
+		</ul>
+		<ul id="doors-links" class="fixfloat">
+			<li class="first"><strong>Yahoo! Brasil</strong></li>
+			<li class="middle"></li>	
+			<li class="middle" onclick="javascript:YAHOO.cookie.set('DNR','1',Math.round(new Date().getTime()/1000)+3600*24*3650, '', 'yahoo.com');"></li>
+		</ul>
+	</div>
+</div>
+        
+        <div id="pagesettingscx">
+<cite class="timestamp" style="display: inline;">&nbsp;</cite>
+<a href="r/bpop" id="editpage">Op&ccedil;&otilde;es da p&aacute;gina</a>
+    <div id="pagesettings">
+      <div class="bd"><span>
+        
+        <h4>Cor:</h4>
+        <ol id="themes">
+          <li><a id="t1" class="on" title="Oceano">Oceano</a></li>
+          <li><a id="t4" title="Tangerina">Tangerina</a></li>
+          <li><a id="t3" title="Violeta">Violeta</a></li>
+          <li><a id="t2" title="Ostra">Ostra</a></li>
+          <li><a id="t5" title="Relva">Relva</a></li>
+          <li><a id="t7" title="Rosa">Rosa</a></li>
+        </ol>
+        
+       <a id="sizetogglelink" href="r/bpoc">
+            
+           Mudar para p&aacute;gina estreita
+           
+       </a></span></div>
+   </div>
+</div>
+        <script language="javascript" type="text/javascript">
+          YAHOO.Fp.updateTimeStamp('navbardate', 'd');
+        </script>
+        
+      </div>
+      <div id="mastheadft"></div>
+    </div>
+    
+    <div id="colcx">
+      <div class="iemw"></div>
+      
+      <div id="left">
+        
+   
+    
+      
+    
+      <div id="trough" class="md">
+      	<div class="bd">
+          <ul class="col1">
+            <li><a style="background-position:0 -400px" href="r/btfr">Acesso Gr&aacute;tis</a></li>
+            <li><a style="background-position:0 0" href="r/btau">Autos</a></li>
+			<li><a style="background-position:0 -1600px" href="r/bzmb">Celular</a></li>
+            <li><a style="background-position:0 -300px" href="r/btca">Empregos</a></li>
+	        <li><a style="background-position:0 -500px" href="r/btpe">Encontros</a></li>
+	        <li><a style="background-position:0 -3050px" href="r/btsp">Esportes</a></li>
+			<li><a style="background-position:0 -100px" href="r/btfi">Finan&ccedil;as</a></li>				        
+        
+			<li><a style="background-position:0 -4000px" href="r/btfk">Flickr Fotos</a></li>
+	        <li><a style="background-position:0 -600px" href="r/btre">Im&oacute;veis</a></li>
+			<li><a style="background-position:0 -2150px" href="r/btmb">Mais Buscados</a></li>
+            <li><a style="background-position:0 -1750px" href="r/btma">Mapas</a></li>
+            <li><a style="background-position:0 -450px" href="r/btmu">M&uacute;sica</a></li>
+			<li><a style="background-position:0 -900px" href="r/btne">Not&iacute;cias</a></li>
+			<li><a style="background-position:0 -1900px" href="r/btan">Respostas</a></li>
+        
+			<li><a style="background-position:0 -1600px;" href="r/btpr">Ringtones</a></li>            
+            <li><a style="background-position:0 -650px" href="r/btsh">Shopping</a></li>
+            <li><a style="background-position:0 -2850px" href="r/btte">Tecnologia</a></li>
+            <li><a style="background-position:0 -750px" href="r/bttr">Viagens</a></li>
+            <li><a style="background-position:0 -3400px" href="r/btvi">V&iacute;deo</a></li>
+            
+          </ul>
+           
+          <ul id="trough-promo" class="col1">
+   <li><a style="background-position:0 -3450px;" href="r/btve">Ver&atilde;o 2008</a></li>
+</ul>       
+          
+          <span>
+                    
+            <a id="allyservices" href="r/btmo" class="btn-more-2" title="Mais servi&ccedil;os">Mais servi&ccedil;os</a>
+          </span>
+        </div>
+      </div>
+    
+<!-- loadnow -->
+          <div class="minimantle md">
+<div class="hd"><h2><a href="r/bsbt">Pequenas empresas</a></h2></div>
+<div class="md-sub">
+  <ul>
+    <li><a href="r/bsbs">Links patrocinados</a></li>
+    <li><a href="r/bsby">List&atilde;o OESP</a></li>
+  </ul>
+</div>
+</div>
+          
+          <div class="minimantle md">
+<div class="hd"><h2><a href="r/bfsn">Servi&ccedil;os Yahoo!</a></h2></div>
+<div class="md-sub">
+  <ul>
+    <li><a href="r/bfsb">Barra de Ferramentas</a></li>
+    <li><a href="r/bfhe">Bem-estar</a></li>
+    <li><a href="r/bfsc">Yahoo! Cad&ecirc;?</a></li>
+    <li><a href="r/bfsd">Divers&atilde;o</a></li>
+    <li><a href="r/bfsg">Sites Pessoais</a></li>
+  
+    <li><h3><a href="r/bfsi">Y! Internacional</a></h3></li>
+  
+  </ul>
+</div>
+</div>
+          
+	  
+      </div>
+      
+      
+      <div id="rightcx">
+        
+        <div id="middle">
+          
+          <div class="colpadding">
+            
+            
+            		            <div id="today" class="md">
+  <div class="hd tabs">
+    <h3 class="a11y">Destaques</h3>
+    <ul id="todaytabs">
+      <li class="first on">
+        <a id="featured1" href="r/bfht">Em destaque</a>
+        <span class="pipe"></span>
+      </li>
+      <li>
+        <a id="entertainment1" href="r/bfet">Entretenimento</a>
+        <span class="pipe"></span>
+      </li>
+      <li class="last">
+        <a id="sports1" href="r/bfst">Esportes</a>
+        <span class="pipe"></span>
+      </li>
+    </ul>
+  </div>
+  <div id="todaybd" class="bd">
+    
+    <span id="featured1ct" class="current">
+               <a href=s/429846>
+<img src="http://l.yimg.com/us.yimg.com/i/br/esportes/0308/edmundo_1303_156x117_lance.jpg" height="117" alt="Lance"></a>
+<span>
+<h3><a href=s/429846>Vasco goleia e segue 100%</a></h3>
+<p>Com show de Morais e Edmundo, time da Colina arrasa o Macaé no Estadual<a class=more href=s/429846>»Como foi?</p>
+<ul>
+<li><a class=bullet href=s/429847><b>Glorioso</b> dá show no Engenhão</a></li>
+<li><a class=bullet href=s/429848><b>Mengo</b> de time misto no clássico</a></li>
+</ul>
+</span>               </span>
+    
+    <span id="featured2ct">
+    
+    </span>
+    
+    <span id="featured3ct">
+    
+    </span>
+    
+    <span id="featured4ct">
+    
+    </span>
+	
+	<span id="entertainment1ct">
+    
+    </span>
+      
+    <span id="entertainment2ct">
+    
+    </span>
+    
+    <span id="entertainment3ct">
+    
+    </span>
+    
+    <span id="entertainment4ct">
+    
+    </span>
+    
+     <span id="sports1ct">
+    
+    </span>
+    <span id="sports2ct">
+    
+    </span>
+    <span id="sports3ct">
+    
+    </span>
+    <span id="sports4ct">
+    
+    </span>
+    
+  </div>
+  
+  <div id="todayft" class="ft">
+    <span id="footer1" class="current">
+      
+        <ul id="todaystories1">
+        <li id="featured1|checksum" class="on">           <a href=s/429852><img src="http://l.yimg.com/us.yimg.com/i/br/esportes/0308/edmundo_1303_29x21_lance.jpg" alt="Lance" /><br /><b>Vasco</b> e <b>Bota</b> dão show no Estadual</a>           </li>
+          <li id="featured2|checksum">           <a href=s/429813><img src="http://l.yimg.com/us.yimg.com/i/br/news/0308/trabalho_1303_29.jpg" alt="Getty Images" /><br /><b>Trabalho</b> em excesso dá doença</a>           </li>
+          <li id="featured3|checksum">           <a href=s/429796><img src="http://l.yimg.com/us.yimg.com/i/br/news/0308/condoleezza_brasil4.jpg" alt="AFP" /><br /><b>Rice</b>: EUA temem terrorismo na AL</a>           </li>
+          <li id="featured4|checksum">           <a href=s/429843><img src="http://l.yimg.com/us.yimg.com/i/br/entret/0308/britney_break_ice29.jpg" alt="Reuters" /><br /><b>Britney Spears</b> ataca de heroína em clipe</a>           </li>
+		</ul>
+        <span class="btn-more"><span id="todaytabs-fauxtabs1"><a href="r/bfet">Entretenimento</a> <a  class="last" href="r/bfst">Esportes</a></span></span>
+    
+	</span>
+	
+	<span id="footer2">
+      
+        <ul id="todaystories2">
+        
+		</ul>
+        <span class="btn-more"><span id="todaytabs-fauxtabs2"><a href="r/bfht">Em destaque</a> <a class="last" href="r/bfst">Esportes</a></span></span>
+		
+    </span>
+	
+	<span id="footer3">
+      
+        <ul id="todaystories3">
+        
+		</ul>
+		<span class="btn-more"><span id="todaytabs-fauxtabs3"><a href="r/bfht">Em destaque</a> <a class="last" href="r/bfet">Entretenimento</a></span></span>
+    
+	</span>
+	
+  </div>
+</div>
+            
+            <div id="special-ad">
+<script language="JavaScript">var yad_target="_blank";var yad_URL=new Array();	yad_URL[1]="http://br.ard.yahoo.com/SIG=152iok1ce/M=648430.12369021.12757078.10213794/D=brtoppage/S=2022139719:SW1/Y=BR/EXP=1205467829/L=YeFficiYoYTDTHiWR8xxqAzwyRAUykfZ3pUAC7D0/B=.vSALsiYoJk-/J=1205460629771295/A=5202418/R=0/SIG=12matloj1/*http://ad.adnetwork.com.br/mfa/go/img/;s=13;c=1939;a=1;l=1;p=20;sc=11936;n=0;b=46034";var yad_flashfile="http://l.yimg.com/br.yimg.com/i/img2/200801/0129yahoo_home_botaoexp_verao08_thiagopereira_080121.swf?clickTAG=javascript:YADopenWindow(1)";var yad_altURL=yad_URL[1];var yad_altimg="0129yahoo_home_botaoexp_verao08_thiagopereira_080121.gif";var yad_width=280;var yad_height=25;</script><script language="JavaScript" src="http://us.js2.yimg.com/us.js.yimg.com/lib/br/ads/ct_yad_040902_n.js"></script><script language=javascript>
+if(window.yzq_d==null)window.yzq_d=new Object();
+window.yzq_d['.vSALsiYoJk-']='&U=13bcj3ad6%2fN%3d.vSALsiYoJk-%2fC%3d648430.12369021.12757078.10213794%2fD%3dSW1%2fB%3d5202418';
+</script><noscript><img width=1 height=1 alt="" src="http://row.bc.yahoo.com/b?P=YeFficiYoYTDTHiWR8xxqAzwyRAUykfZ3pUAC7D0&T=156nl2qup%2fX%3d1205460629%2fE%3d2022139719%2fR%3dbrtoppage%2fK%3d5%2fV%3d2.1%2fW%3dHR%2fY%3dBR%2fF%3d3620082077%2fH%3dY2FjaGVoaW50PSIyMDIyMTM5NzE5Ig--%2fQ%3d-1%2fS%3d1%2fJ%3d8DA098C8&U=13bcj3ad6%2fN%3d.vSALsiYoJk-%2fC%3d648430.12369021.12757078.10213794%2fD%3dSW1%2fB%3d5202418"></noscript></div>
+            
+            <script language="javascript" type="text/javascript">
+            now=new Date;
+            t5=now.getTime();
+            </script>
+            
+            <div id="news" class="md">
+  <div class="hd tabs">
+    <h3 class="a11y">Not&iacute;cias</h3>
+    <ul id="newstabs">
+      <li class="first on">
+        <a id="mainnews" href="r/bnbm">Not&iacute;cias</a>
+        <span class="pipe"></span>
+      </li>
+      <li class="last">
+        <a id="celebritynews" href="r/bnct">Celebridades</a>
+        <span class="pipe"></span>
+      </li>
+    </ul>
+  </div> 
+  <div id="newsbd" class="bd">
+   <div id="newstop" class="check">
+    
+   <span id="mainnewsct" class="current">
+                           <ul><li><a href=s/429832>Juiz aceita que pilotos do Legacy deponham nos EUA</a></li>                      <li><a href=s/429829>Ministério investiga caso de dengue em recém-nascido</a></li>                      <li><a href=s/429831>Homem morre após bater a cabeça contra colega de trabalho</a></li>                      <li><a set=yes linkindex=61 href=s/429827>Policial que prendeu 'homem da mala' sai na Playboy</a><dl class="inline"><dt><a class=slideshow href=s/429828>Foto</a></dt></dl></li>                      <li><a href=s/429806>Equipe pode ser eliminada da Copa da UEFA por ato racista</a></li></ul>                     <a href="r/bnmo" class="btn-more">&#187; Mais not&iacute;cias</a>
+    </span>
+    <span id="celebritynewsct">
+      
+    </span>
+   </div>
+   <div id="newsft">
+          <div id="newsbottom">
+              <ul class="btn-more">
+              <li><a href="r/bnte">Tecnologia</a></li>
+             <li li class="last"><a href="r/bntu">Tutoriais</a></li>
+           </ul>
+           
+<div id="market_sponsor">
+<!-- SpaceID=2022139719 loc=VAM noad-spid -->
+<script language=javascript>
+if(window.yzq_d==null)window.yzq_d=new Object();
+window.yzq_d['__SALsiYoJk-']='&U=127boc6he%2fN%3d__SALsiYoJk-%2fC%3d-2%2fD%3dVAM%2fB%3d-2';
+</script><noscript><img width=1 height=1 alt="" src="http://row.bc.yahoo.com/b?P=YeFficiYoYTDTHiWR8xxqAzwyRAUykfZ3pUAC7D0&T=156h6joq9%2fX%3d1205460629%2fE%3d2022139719%2fR%3dbrtoppage%2fK%3d5%2fV%3d2.1%2fW%3dHR%2fY%3dBR%2fF%3d4151389447%2fH%3dY2FjaGVoaW50PSIyMDIyMTM5NzE5Ig--%2fQ%3d-1%2fS%3d1%2fJ%3d8DA098C8&U=127boc6he%2fN%3d__SALsiYoJk-%2fC%3d-2%2fD%3dVAM%2fB%3d-2"></noscript></div>
+<div id="markets">
+  <ul id="footer-more-news" class="btn-more no-sep">
+    <li>
+<a href="r/bndo">
+<strong>D&oacute;lar: 
+    <span class="up" id="dollar">1.70</span>
+</strong>
+</a>
+    </li>
+    <li>
+<a href="r/bnbo">
+<strong>Bovespa:  
+    <span class="up" id="bovespa">0.17%</span>
+</strong>
+</a>
+    </li>
+  </ul>
+</div>
+        
+      </div>
+    </div>
+  </div>
+</div>
+            <script language="javascript" type="text/javascript">
+            now=new Date;
+            t6=now.getTime();
+            </script>
+            
+            <div id="photomodule1" class="md photomodule">
+	<div class="hd"><h2><a href="r/bpmt" title="Galerias de fotos">Galerias de fotos</a></h2></div>
+	<div class="bd">
+		<div class="photoslide">
+		<div class="mask">
+			<div class="masked">
+				           <ul><li><a href=s/429762><img src="http://l.yimg.com/us.yimg.com/i/br/news/0308/kiss_90_wireimages.jpg" alt="Banda Kiss anuncia turnê pela Europa em maio e junho" /><br /></a></li>                      <li><a href=s/429763><img src="http://l.yimg.com/us.yimg.com/i/br/news/0308/hamilton_90_afp.jpg" alt="Lewis Hamilton, da McLaren. vende disputa de caiaque na Austrália" /><br /></a></li>                      <li><a href=s/429764><img src="http://l.yimg.com/us.yimg.com/i/br/news/0308/jimcarrey_90_afp.jpg" alt="Jim Carrey ganha estátua de cera no Museu da Madame Tussauds em Londres" /><br /></a></li>                      <li><a href=s/429761><img src="http://l.yimg.com/us.yimg.com/i/br/news/0308/canguru_90_afp.jpg" alt="Austrália vende abridores de garrafa feitos de testículos de canguru" /><br /></a></li></ul>                           
+			</div>
+		</div>
+		</div>
+		<div class="photonav">
+			<address class="photoled">1/2</address>	
+			<ul class="photobtns">
+				<li class="prev"><a href="r/bpmp">&lt;</a></li>
+				<li class="next"><a href="r/bpmn">&gt;</a></li>
+			</ul>
+		</div>
+	</div>
+	<div class="ft">
+		<dl id="photomore1" class="list-more">
+            <dt>Mais fotos:</dt>
+            <dd><a href="r/bpms">Manchetes</a></dd>
+            <dd><a href="r/bpmw">Mundo</a></dd>
+            <dd><a href="r/bpmd">Entretenimento</a></dd>
+            <dd><a href="r/bpmk">Tecnologia</a></dd>
+		</dl>
+		<ul><li><a href="r/bpmf"><strong style='color:#0063dc;'>flick</strong><strong style='color:#ff0084;'>r</strong></a></li></ul>
+	</div>
+</div>
+            
+            <div id="marketplace" class="md">
+    <div class="hd">
+      
+      <h2>Explore o Yahoo!</h2>
+      
+    </div>
+    <div id="marketplacebd" class="bd">
+	
+    	<table border=0 cellpadding=0 cellspacing=0 width="100%"><tr><td valign=top width="70" ><a href="http://br.ard.yahoo.com/SIG=152qrje62/M=540778.10538777.12780034.10207958/D=brtoppage/S=2022139719:MT1/Y=BR/EXP=1205467829/L=YeFficiYoYTDTHiWR8xxqAzwyRAUykfZ3pUAC7D0/B=._SALsiYoJk-/J=1205460629771295/A=5274669/R=0/SIG=10up3c083/*http://br.answers.yahoo.com/"><img src="http://l.yimg.com/us.yimg.com/i/br/search/answers/petpet.jpg" width="70" height="50" border=0></a></td> <td width=8>&nbsp;</td><td align="left"><font face=arial size=-1><a href="http://br.ard.yahoo.com/SIG=152qrje62/M=540778.10538777.12780034.10207958/D=brtoppage/S=2022139719:MT1/Y=BR/EXP=1205467829/L=YeFficiYoYTDTHiWR8xxqAzwyRAUykfZ3pUAC7D0/B=._SALsiYoJk-/J=1205460629771295/A=5274669/R=1/SIG=133uhrv2a/*http://br.answers.yahoo.com/dir/;_ylt=ArrldQHaXkgNRoeWWjVeJlGu6gt.;_ylv=3?link=list&sid=396545443">D&uacute;vidas ao cuidar  do seu animal de estima&ccedil;&atilde;o?</a><font color="#333333" style="text-decoration:none"><br>Veja algumas dicas no <b>Yahoo! Respostas</b> para<br>que seu pet fique sempre saud&aacute;vel. <a href="http://br.ard.yahoo.com/SIG=152qrje62/M=540778.10538777.12780034.10207958/D=brtoppage/S=2022139719:MT1/Y=BR/EXP=1205467829/L=YeFficiYoYTDTHiWR8xxqAzwyRAUykfZ3pUAC7D0/B=._SALsiYoJk-/J=1205460629771295/A=5274669/R=2/SIG=133uhrv2a/*http://br.answers.yahoo.com/dir/;_ylt=ArrldQHaXkgNRoeWWjVeJlGu6gt.;_ylv=3?link=list&sid=396545443">Confira</a>!    </font></font></td></tr></table><hr size=1 noshade>  <table border=0 cellpadding=0 cellspacing=0 width="100%">   <tr>     <td align="left"><font face=arial size=-1><a href="http://br.ard.yahoo.com/SIG=152qrje62/M=540778.10538777.12780034.10207958/D=brtoppage/S=2022139719:MT1/Y=BR/EXP=1205467829/L=YeFficiYoYTDTHiWR8xxqAzwyRAUykfZ3pUAC7D0/B=._SALsiYoJk-/J=1205460629771295/A=5274669/R=3/SIG=10up3c083/*http://br.answers.yahoo.com/">Quer saber o que andam falando do BBB8?</a><font color="#333333" style="text-decoration:none"><br>     A comunidade do <b>Yahoo! Respostas</b> comenta os <br>principais acontecimentos da casa. <a href="http://br.ard.yahoo.com/SIG=152qrje62/M=540778.10538777.12780034.10207958/D=brtoppage/S=2022139719:MT1/Y=BR/EXP=1205467829/L=YeFficiYoYTDTHiWR8xxqAzwyRAUykfZ3pUAC7D0/B=._SALsiYoJk-/J=1205460629771295/A=5274669/R=4/SIG=134qin6kp/*http://br.answers.yahoo.com/dir/;_ylt=AqiJ3nHmDrUF7FyA8.7uRdfg7At.;_ylv=3?link=list&sid=2115500180">Confira agora</a>!    </font></font></td>	<td width=8>&nbsp;</td>	<td valign=top width="70" ><a href="http://br.ard.yahoo.com/SIG=152qrje62/M=540778.10538777.12780034.10207958/D=brtoppage/S=2022139719:MT1/Y=BR/EXP=1205467829/L=YeFficiYoYTDTHiWR8xxqAzwyRAUykfZ3pUAC7D0/B=._SALsiYoJk-/J=1205460629771295/A=5274669/R=5/SIG=10up3c083/*http://br.answers.yahoo.com/"><img src="http://l.yimg.com/us.yimg.com/i/br/search/answers/rafinhabbb8.jpg" width="70" height="50" border=0></a></td>     </tr> </table><hr size=1 noshade> <table border=0 cellpadding=0 cellspacing=0 width="100%">   <tr>  <td valign=top width="70" ><a href="http://br.ard.yahoo.com/SIG=152qrje62/M=540778.10538777.12780034.10207958/D=brtoppage/S=2022139719:MT1/Y=BR/EXP=1205467829/L=YeFficiYoYTDTHiWR8xxqAzwyRAUykfZ3pUAC7D0/B=._SALsiYoJk-/J=1205460629771295/A=5274669/R=6/SIG=132mp52q9/*http://br.rd.yahoo.com/video/mt/img/*http://br.video.yahoo.com/video/play?vid=2031178&fr=fp-buzz"><img src="	http://l.yimg.com/us.yimg.com/i/br/search/cd/mt/20080221indiana.gif" width="70" height="50" border=0></a></td>  <td width=8>&nbsp;</td>     <td align="left"><font face=arial size=-1>No <a href="http://br.ard.yahoo.com/SIG=152qrje62/M=540778.10538777.12780034.10207958/D=brtoppage/S=2022139719:MT1/Y=BR/EXP=1205467829/L=YeFficiYoYTDTHiWR8xxqAzwyRAUykfZ3pUAC7D0/B=._SALsiYoJk-/J=1205460629771295/A=5274669/R=7/SIG=12bk00e29/*http://br.rd.yahoo.com/video/mt/hp/*http://br.video.yahoo.com/?fr=fp-buzz">Yahoo! V&iacute;deo</a> tem os trailers do<br>     momento. Confira  <a href="http://br.ard.yahoo.com/SIG=152qrje62/M=540778.10538777.12780034.10207958/D=brtoppage/S=2022139719:MT1/Y=BR/EXP=1205467829/L=YeFficiYoYTDTHiWR8xxqAzwyRAUykfZ3pUAC7D0/B=._SALsiYoJk-/J=1205460629771295/A=5274669/R=8/SIG=1302u5m3m/*http://br.rd.yahoo.com/video/mt/1/*http://br.video.yahoo.com/video/play?vid=1202513&fr=fp-buzz">Juno</a>, o azar&atilde;o<br>da temporada, e o novo <a href="http://br.ard.yahoo.com/SIG=152qrje62/M=540778.10538777.12780034.10207958/D=brtoppage/S=2022139719:MT1/Y=BR/EXP=1205467829/L=YeFficiYoYTDTHiWR8xxqAzwyRAUykfZ3pUAC7D0/B=._SALsiYoJk-/J=1205460629771295/A=5274669/R=9/SIG=130uaeqbn/*http://br.rd.yahoo.com/video/mt/2/*http://br.video.yahoo.com/video/play?vid=2031178&fr=fp-buzz">Indiana Jones</a>.</font></font></td>    </tr> </table><hr size=1 noshade> <table border=0 cellpadding=0 cellspacing=0 width="100%"><tr><td align="left"><font face=arial size=-1>Come&ccedil;a a <a href="http://br.ard.yahoo.com/SIG=152qrje62/M=540778.10538777.12780034.10207958/D=brtoppage/S=2022139719:MT1/Y=BR/EXP=1205467829/L=YeFficiYoYTDTHiWR8xxqAzwyRAUykfZ3pUAC7D0/B=._SALsiYoJk-/J=1205460629771295/A=5274669/R=10/SIG=11ke6tlu6/*http://br.esportes.yahoo.com/futebol/libertadores/">Copa Libertadores 2008 </a><font color="#333333" style="text-decoration:none"><br></font>Acompanhe os jogos no<strong> Y! Esportes </strong><br>E confira a tabela de <a href="http://br.ard.yahoo.com/SIG=152qrje62/M=540778.10538777.12780034.10207958/D=brtoppage/S=2022139719:MT1/Y=BR/EXP=1205467829/L=YeFficiYoYTDTHiWR8xxqAzwyRAUykfZ3pUAC7D0/B=._SALsiYoJk-/J=1205460629771295/A=5274669/R=11/SIG=11qt73pk7/*http://br.esportes.yahoo.com/futebol/libertadores/fase1/">classifica&ccedil;&atilde;o </a></font></td><td width=8>&nbsp;</td><td valign=top width="70" ><a href="http://br.ard.yahoo.com/SIG=152qrje62/M=540778.10538777.12780034.10207958/D=brtoppage/S=2022139719:MT1/Y=BR/EXP=1205467829/L=YeFficiYoYTDTHiWR8xxqAzwyRAUykfZ3pUAC7D0/B=._SALsiYoJk-/J=1205460629771295/A=5274669/R=12/SIG=11ke6tlu6/*http://br.esportes.yahoo.com/futebol/libertadores/"><img src="http://l.yimg.com/us.yimg.com/i/br/esportes/0208/obina_fla_70x50_ae.jpg" width="70" height="50" border=0></a></td></tr></table><script language=javascript>
+if(window.yzq_d==null)window.yzq_d=new Object();
+window.yzq_d['._SALsiYoJk-']='&U=13bq37076%2fN%3d._SALsiYoJk-%2fC%3d540778.10538777.12780034.10207958%2fD%3dMT1%2fB%3d5274669';
+</script><noscript><img width=1 height=1 alt="" src="http://row.bc.yahoo.com/b?P=YeFficiYoYTDTHiWR8xxqAzwyRAUykfZ3pUAC7D0&T=156nom3ds%2fX%3d1205460629%2fE%3d2022139719%2fR%3dbrtoppage%2fK%3d5%2fV%3d2.1%2fW%3dHR%2fY%3dBR%2fF%3d2898017740%2fH%3dY2FjaGVoaW50PSIyMDIyMTM5NzE5Ig--%2fQ%3d-1%2fS%3d1%2fJ%3d8DA098C8&U=13bq37076%2fN%3d._SALsiYoJk-%2fC%3d540778.10538777.12780034.10207958%2fD%3dMT1%2fB%3d5274669"></noscript>    
+	</div>
+  </div>
+            <script language="javascript" type="text/javascript">
+            now=new Date;
+            t7=now.getTime();
+            </script>
+            
+          </div>
+          
+        </div>
+        <div id="right">
+          <div class="colpadding">
+            <div id="pa" class="md">
+  
+  <div id="pabd">
+  <div id="patop">
+    <ul id="reg" class="so">
+<li>J&aacute; tem ID Yahoo!? <a href="r/bpli" >Entre</a></li><li id="signup">Novo por aqui: <a href="r/bpsu">Cadastre-se</a></li>   </ul>
+  </div>
+  <div id="patabs">
+    <ul id="tabs1" class="patabs first">
+      <li id="mail" class="first">
+        <div><h4><a id="pamail" accesskey="m" href="r/bpma"><span class="icon">E-mail</span></a></h4></div>
+      </li>
+      <li id="messenger">
+        <div><h4> <a id="pamsgr" href="r/bpme"><span class="icon">Messenger</span></a></h4></div>
+      </li>
+      <li id="groups" class="last">
+        <div><h4><a id="pagroups" href="r/bpgr"><span class="icon">Grupos</span></a></h4></div>
+      </li>
+    </ul>
+    <div id="tabs1previewdiv" class="papreviewdiv"></div>
+    <ul id="tabs2" class="patabs last">
+      <li id="games" class="first">
+        <div><h4><a id="pagames" href="r/bpga"><span class="icon">Games</span></a></h4></div>
+      </li>
+      <li id="movies">
+        <div><h4><a id="pamovies" href="r/bpmo"><span class="icon">Cinema</span></a></h4></div>
+      </li>
+      <li id="answers" class="last">
+        <div><h4> <a id="paanswers" href="r/bpan"><span class="icon">Respostas</span></a></h4></div>
+      </li>
+    </ul>
+    <div id="tabs2previewdiv" class="papreviewdiv"></div>
+  </div>
+  </div>
+  </div>
+            <script language="javascript" type="text/javascript">
+            now=new Date;
+            t8=now.getTime();
+            </script>
+            
+            <div id="ad" class="ad">
+      <!--WAM--><script language=JavaScript>// 03/13 649902 WAM Real OMelhorPraVoce  //Initial info	var n1_p_dir = 'http://l.yimg.com/br.yimg.com/i/img2/200803/';	var n1_test_page = false;	var n1_final_version = "1";	var n1_country = "BR";	var n1_allowed_browsers = "Windows-Ie,Windows-FireFox";  //1=>Simple; 2=Expandable; 3=>Floating (IE Only)	var n1_ad_type=1;	var n1_freq_cap = true;	var n1_swap_swf = false; // true para quando troca o SWF n1 ao final da execu��o da pe�a;	var n1_swap_swf_aft_video = false; //video stream only	var n1_end_height = 200;	var n1_flt_wid = 770;	var n1_avail_w_wide = 955;  //Ad info	var n1_ad_owner = "real";	var n1_ad_name = "omelhor";	var n1_go_url = "http://nspmotion.com/LinkMultiSP.aspx?m=39772";	var n1_swf_version = '7';  //Text Info	var n1_ra1_tx='Repetir Anima&ccedil;&atilde;o';	var n1_ra2_tx='Fechar';	var n1_ra3_tx='Visite o site';	var n1_ra4_tx='';	var n1_ra4_link='http://www.yahoo.com.br';  //Streamming info	var n1_stream = false;	var n1_stream_w=320 	var n1_stream_h= 240;	var n1_stream_group = "promotions";	var n1_stream_videos = new Array();		n1_stream_videos[0] = "1465365-169644"; //700		n1_stream_videos[1] = "1465364-169644"; //300		n1_stream_videos[2] = "1465363-169644"; //100		n1_stream_videos[3] = "1465362-169644"; //56  //BackPage	var n1_backpage = false;	var n1_bckp_w=YAHOO.Fp.pageSize?770:950;//?narow:wide; //Use 0 (zero) vaue in order to have the back page expanded to the available width	var n1_bckp_h=600;	var n1_bckp_st_top=	YAHOO.Fp.pageSize?-29:-27;//?narow:wide;	var n1_bckp_st_left= YAHOO.Fp.pageSize?-1:-5;//?narow:wide;	var n1_bckp_2_versions = true;	var n1_bckp_do_preload = false;	var n1_bckp_align = 'right';	var n1_bckp_bgcolor = ''; //empty for transparemt  //Redirects	var n1_rs = new Array();		n1_rs[0]= 'http://br.ard.yahoo.com/SIG=151amnfvt/M=649902.12416125.12797005.9114146/D=brtoppage/S=2022139719:WAM/Y=BR/EXP=1205467829/L=YeFficiYoYTDTHiWR8xxqAzwyRAUykfZ3pUAC7D0/B=.PSALsiYoJk-/J=1205460629771295/A=5279507/R=0/id=wam_click/*'+ n1_go_url;		n1_rs[1]= 'http://br.ard.yahoo.com/SIG=151amnfvt/M=649902.12416125.12797005.9114146/D=brtoppage/S=2022139719:WAM/Y=BR/EXP=1205467829/L=YeFficiYoYTDTHiWR8xxqAzwyRAUykfZ3pUAC7D0/B=.PSALsiYoJk-/J=1205460629771295/A=5279507/R=1/id=alt_img/*'+ n1_go_url;		n1_rs[2]= 'http://br.ard.yahoo.com/SIG=151amnfvt/M=649902.12416125.12797005.9114146/D=brtoppage/S=2022139719:WAM/Y=BR/EXP=1205467829/L=YeFficiYoYTDTHiWR8xxqAzwyRAUykfZ3pUAC7D0/B=.PSALsiYoJk-/J=1205460629771295/A=5279507/R=2/id=tx_cap/*';		n1_rs[3]= 'http://br.ard.yahoo.com/SIG=151amnfvt/M=649902.12416125.12797005.9114146/D=brtoppage/S=2022139719:WAM/Y=BR/EXP=1205467829/L=YeFficiYoYTDTHiWR8xxqAzwyRAUykfZ3pUAC7D0/B=.PSALsiYoJk-/J=1205460629771295/A=5279507/R=3/id=bckp_click/*' + n1_go_url;</script><script src="http://l.yimg.com/br.yimg.com/i/img2/200802/special_interventions_v60.3-min.js"></script><span id="3rd_imp_count" style="position:absolute;top:0px;left:0px;width:1px;height:1px:overflow:hidden"><img src="http://nspmotion.com/AdvCounter.aspx?a=12814!39772!1" width="1" height="1" border="0"></span><!--End WAM--><script language=javascript>
+if(window.yzq_d==null)window.yzq_d=new Object();
+window.yzq_d['.PSALsiYoJk-']='&U=13adub3g6%2fN%3d.PSALsiYoJk-%2fC%3d649902.12416125.12797005.9114146%2fD%3dWAM%2fB%3d5279507';
+</script><noscript><img width=1 height=1 alt="" src="http://row.bc.yahoo.com/b?P=YeFficiYoYTDTHiWR8xxqAzwyRAUykfZ3pUAC7D0&T=156jr7vpl%2fX%3d1205460629%2fE%3d2022139719%2fR%3dbrtoppage%2fK%3d5%2fV%3d2.1%2fW%3dHR%2fY%3dBR%2fF%3d4027147200%2fH%3dY2FjaGVoaW50PSIyMDIyMTM5NzE5Ig--%2fQ%3d-1%2fS%3d1%2fJ%3d8DA098C8&U=13adub3g6%2fN%3d.PSALsiYoJk-%2fC%3d649902.12416125.12797005.9114146%2fD%3dWAM%2fB%3d5279507"></noscript>    </div>
+                        
+            <script language="javascript" type="text/javascript">
+            now=new Date;
+            t9=now.getTime();
+            </script>
+            
+            <div id="mantlecx">
+              <div id="mantle">
+<style type="text/css">        
+#box_shopping .p_b{width:169px; border-top:6px #fff solid; border-left:5px #fff
+solid; padding-left:0px; background:#ffffff;}
+#box_shopping .p_t{width:163px;border-left:8px #fff solid; padding:1px;}        
+#box_shopping img{width:50px;height:50px;float:left;border:1px #798897 solid;
+padding:1px; background:#E8EFF1;} 
+#box_shopping table a{font-family:arial; font-size:11px; color:#787878;} 
+#box_shopping table .a_title{color:#22498D; font-weight:bold }	     
+#box_shopping hr{text-align:center; color:#cad5db;}
+#box_shopping .hd {overflow:hidden; height:23px}
+#box_shopping .hd h2 a em{color:#722006}
+</style>
+  <div id="box_shopping" class="md" style="width:348px;">
+    <div class="hd" ><h2 style="float:left; padding:3px;"><a href="r/bmps">Shopping Yahoo! -
+Ofertas Especiais</a></h2> <span
+style="float:right; width:212px;height:21px; background-repeat:no-repeat;"></span></div>
+    <table cellpadding=0 cellspacing=0>
+      <tr>
+        <td><div class="p_b">  <TABLE>   <TR>  	<TD><A href="http://br.ard.yahoo.com/SIG=1528be3hj/M=648383.12375407.12757428.9904011/D=brtoppage/S=2022139719:INS1/Y=BR/EXP=1205467829/L=YeFficiYoYTDTHiWR8xxqAzwyRAUykfZ3pUAC7D0/B=APWALsiYoJk-/J=1205460629771295/A=5270062/R=0/SIG=11sk9ghb0/*http://www.testedapaquera.com.br/ws/acp?sp=550022&t=101125" target="_blank"><img src="http://l.yimg.com/br.yimg.com/i/img2/200803/0306termometro2.jpg" border=0 width=50 height=50></a></TD>  	<TD><A href="http://br.ard.yahoo.com/SIG=1528be3hj/M=648383.12375407.12757428.9904011/D=brtoppage/S=2022139719:INS1/Y=BR/EXP=1205467829/L=YeFficiYoYTDTHiWR8xxqAzwyRAUykfZ3pUAC7D0/B=APWALsiYoJk-/J=1205460629771295/A=5270062/R=1/SIG=11sk9ghb0/*http://www.testedapaquera.com.br/ws/acp?sp=550022&t=101125" target="_blank"><b class="a_title">TESTE DO NAMORO</b><BR>Veja a temperatura do seu relacionamento</a></TD>   </TR>  </TABLE> </div><script language=javascript>
+if(window.yzq_d==null)window.yzq_d=new Object();
+window.yzq_d['APWALsiYoJk-']='&U=13bk1je8d%2fN%3dAPWALsiYoJk-%2fC%3d648383.12375407.12757428.9904011%2fD%3dINS1%2fB%3d5270062';
+</script><noscript><img width=1 height=1 alt="" src="http://row.bc.yahoo.com/b?P=YeFficiYoYTDTHiWR8xxqAzwyRAUykfZ3pUAC7D0&T=156epeg3j%2fX%3d1205460629%2fE%3d2022139719%2fR%3dbrtoppage%2fK%3d5%2fV%3d2.1%2fW%3dHR%2fY%3dBR%2fF%3d2490330163%2fH%3dY2FjaGVoaW50PSIyMDIyMTM5NzE5Ig--%2fQ%3d-1%2fS%3d1%2fJ%3d8DA098C8&U=13bk1je8d%2fN%3dAPWALsiYoJk-%2fC%3d648383.12375407.12757428.9904011%2fD%3dINS1%2fB%3d5270062"></noscript></td>
+        <td><div class="p_b">  <TABLE>   <TR>  	<TD><A href="http://br.ard.yahoo.com/SIG=152praso6/M=649050.12400697.12779751.9904017/D=brtoppage/S=2022139719:INS2/Y=BR/EXP=1205467829/L=YeFficiYoYTDTHiWR8xxqAzwyRAUykfZ3pUAC7D0/B=AfWALsiYoJk-/J=1205460629771295/A=5272129/R=0/SIG=15g5e2epa/*http://namoro.parperfeito.com.br/cadastro/comece-a-namorar-ainda-hoje_np.jsp?utm_source=yahoo_advertising&utm_medium=SELO_comeceanamoraraindahj&utm_campaign=YAHOO_ADV_AindaHJ" target="_blank"><img src="http://l.yimg.com/br.yimg.com/i/img2/200803/namorarhoje_selo50x50.gif" border=0 width=50 height=50></a></TD>  	<TD><A href="http://br.ard.yahoo.com/SIG=152praso6/M=649050.12400697.12779751.9904017/D=brtoppage/S=2022139719:INS2/Y=BR/EXP=1205467829/L=YeFficiYoYTDTHiWR8xxqAzwyRAUykfZ3pUAC7D0/B=AfWALsiYoJk-/J=1205460629771295/A=5272129/R=1/SIG=15g5e2epa/*http://namoro.parperfeito.com.br/cadastro/comece-a-namorar-ainda-hoje_np.jsp?utm_source=yahoo_advertising&utm_medium=SELO_comeceanamoraraindahj&utm_campaign=YAHOO_ADV_AindaHJ" target="_blank"><b class="a_title">ParPerfeito</b><BR>Crie seu perfil e namore ainda hoje!</a></TD>   </TR>  </TABLE> </div><script language=javascript>
+if(window.yzq_d==null)window.yzq_d=new Object();
+window.yzq_d['AfWALsiYoJk-']='&U=13b3simns%2fN%3dAfWALsiYoJk-%2fC%3d649050.12400697.12779751.9904017%2fD%3dINS2%2fB%3d5272129';
+</script><noscript><img width=1 height=1 alt="" src="http://row.bc.yahoo.com/b?P=YeFficiYoYTDTHiWR8xxqAzwyRAUykfZ3pUAC7D0&T=15519dcqa%2fX%3d1205460629%2fE%3d2022139719%2fR%3dbrtoppage%2fK%3d5%2fV%3d2.1%2fW%3dHR%2fY%3dBR%2fF%3d412549511%2fH%3dY2FjaGVoaW50PSIyMDIyMTM5NzE5Ig--%2fQ%3d-1%2fS%3d1%2fJ%3d8DA098C8&U=13b3simns%2fN%3dAfWALsiYoJk-%2fC%3d649050.12400697.12779751.9904017%2fD%3dINS2%2fB%3d5272129"></noscript></td>
+      </tr>
+      <tr>
+        <td><style>#box_shopping img{width:50px;height:50px;float:left;border:1px #798897 solid; </style><div class="p_b">  <TABLE>   <TR>  	<TD><A href="http://br.ard.yahoo.com/SIG=152stv1ai/M=649063.12386397.12766702.9904023/D=brtoppage/S=2022139719:INS3/Y=BR/EXP=1205467829/L=YeFficiYoYTDTHiWR8xxqAzwyRAUykfZ3pUAC7D0/B=AvWALsiYoJk-/J=1205460629771295/A=5192141/R=0/SIG=13h53amjm/*http://yahoobr.englishtown.com/Sp/LandingForm.aspx?kwid=83464&ctr=br&lng=pt&etag=etbr_yahoo_boxshopimagem_jan08" target="_blank"><img src="http://l.yimg.com/br.yimg.com/i/img2/200801/0122yahoo_50x50_modelo02_botaohome.jpg" border=0 width=50 height=50></a></TD>  	<TD><A href="http://br.ard.yahoo.com/SIG=152stv1ai/M=649063.12386397.12766702.9904023/D=brtoppage/S=2022139719:INS3/Y=BR/EXP=1205467829/L=YeFficiYoYTDTHiWR8xxqAzwyRAUykfZ3pUAC7D0/B=AvWALsiYoJk-/J=1205460629771295/A=5192141/R=1/SIG=13h53amjm/*http://yahoobr.englishtown.com/Sp/LandingForm.aspx?kwid=83464&ctr=br&lng=pt&etag=etbr_yahoo_boxshopimagem_jan08" target="_blank"><b class="a_title">Ingl&ecirc;s Online</b><BR>Aprenda Ingl&ecirc;s a qualquer hora e lugar.</a></TD>   </TR>  </TABLE> </div><script language=javascript>
+if(window.yzq_d==null)window.yzq_d=new Object();
+window.yzq_d['AvWALsiYoJk-']='&U=13bl3mntr%2fN%3dAvWALsiYoJk-%2fC%3d649063.12386397.12766702.9904023%2fD%3dINS3%2fB%3d5192141';
+</script><noscript><img width=1 height=1 alt="" src="http://row.bc.yahoo.com/b?P=YeFficiYoYTDTHiWR8xxqAzwyRAUykfZ3pUAC7D0&T=156s7v2sn%2fX%3d1205460629%2fE%3d2022139719%2fR%3dbrtoppage%2fK%3d5%2fV%3d2.1%2fW%3dHR%2fY%3dBR%2fF%3d4109382594%2fH%3dY2FjaGVoaW50PSIyMDIyMTM5NzE5Ig--%2fQ%3d-1%2fS%3d1%2fJ%3d8DA098C8&U=13bl3mntr%2fN%3dAvWALsiYoJk-%2fC%3d649063.12386397.12766702.9904023%2fD%3dINS3%2fB%3d5192141"></noscript></td>
+        <td><div class="p_b">  <TABLE>   <TR>  	<TD><A href="http://br.ard.yahoo.com/SIG=152m93qcv/M=585346.12380553.12761123.9904026/D=brtoppage/S=2022139719:INS4/Y=BR/EXP=1205467829/L=YeFficiYoYTDTHiWR8xxqAzwyRAUykfZ3pUAC7D0/B=A_WALsiYoJk-/J=1205460629771295/A=5281160/R=0/SIG=12aohp0pt/*https://www.agorainvest.com.br/campanhas/verifica_origem.asp?campanha=52" target="_blank"><img src="http://l.yimg.com/br.yimg.com/i/img2/200803/0312icon_50x50.gif" border=0 width=50 height=50></a></TD>  	<TD><A href="http://br.ard.yahoo.com/SIG=152m93qcv/M=585346.12380553.12761123.9904026/D=brtoppage/S=2022139719:INS4/Y=BR/EXP=1205467829/L=YeFficiYoYTDTHiWR8xxqAzwyRAUykfZ3pUAC7D0/B=A_WALsiYoJk-/J=1205460629771295/A=5281160/R=1/SIG=12aohp0pt/*https://www.agorainvest.com.br/campanhas/verifica_origem.asp?campanha=52" target="_blank"><b class="a_title">&Aacute;gora</b><BR>Conte com a gente para investir!</a></TD>   </TR>  </TABLE> </div><script language=javascript>
+if(window.yzq_d==null)window.yzq_d=new Object();
+window.yzq_d['A_WALsiYoJk-']='&U=13b35jffb%2fN%3dA_WALsiYoJk-%2fC%3d585346.12380553.12761123.9904026%2fD%3dINS4%2fB%3d5281160';
+</script><noscript><img width=1 height=1 alt="" src="http://row.bc.yahoo.com/b?P=YeFficiYoYTDTHiWR8xxqAzwyRAUykfZ3pUAC7D0&T=1564saa18%2fX%3d1205460629%2fE%3d2022139719%2fR%3dbrtoppage%2fK%3d5%2fV%3d2.1%2fW%3dHR%2fY%3dBR%2fF%3d1622578859%2fH%3dY2FjaGVoaW50PSIyMDIyMTM5NzE5Ig--%2fQ%3d-1%2fS%3d1%2fJ%3d8DA098C8&U=13b35jffb%2fN%3dA_WALsiYoJk-%2fC%3d585346.12380553.12761123.9904026%2fD%3dINS4%2fB%3d5281160"></noscript></td>
+      </tr>
+      <tr>
+        <td colspan=2><hr size=1 width=95% noshade style=""></td>
+      </tr>
+      <tr>
+        <td><div class="p_t">  <a href="http://br.ard.yahoo.com/SIG=152qi05mm/M=636189.12352838.12738587.9904033/D=brtoppage/S=2022139719:INS5/Y=BR/EXP=1205467829/L=YeFficiYoYTDTHiWR8xxqAzwyRAUykfZ3pUAC7D0/B=BPWALsiYoJk-/J=1205460629771295/A=5227949/R=0/SIG=12ldmnprg/*http://www.assineabril.com.br/aventuras/index.html?campanha=J5G1&origem=yahoo/50x50" target="_blank"><b class="a_title">Aventuras na Hist&oacute;ria</b><BR>Assine Aventuras e ganhe at&eacute; 12 meses a mais</a>  </div><script language=javascript>
+if(window.yzq_d==null)window.yzq_d=new Object();
+window.yzq_d['BPWALsiYoJk-']='&U=13bfj1oqh%2fN%3dBPWALsiYoJk-%2fC%3d636189.12352838.12738587.9904033%2fD%3dINS5%2fB%3d5227949';
+</script><noscript><img width=1 height=1 alt="" src="http://row.bc.yahoo.com/b?P=YeFficiYoYTDTHiWR8xxqAzwyRAUykfZ3pUAC7D0&T=156ph6enp%2fX%3d1205460629%2fE%3d2022139719%2fR%3dbrtoppage%2fK%3d5%2fV%3d2.1%2fW%3dHR%2fY%3dBR%2fF%3d4027391298%2fH%3dY2FjaGVoaW50PSIyMDIyMTM5NzE5Ig--%2fQ%3d-1%2fS%3d1%2fJ%3d8DA098C8&U=13bfj1oqh%2fN%3dBPWALsiYoJk-%2fC%3d636189.12352838.12738587.9904033%2fD%3dINS5%2fB%3d5227949"></noscript></td>
+        <td><div class="p_t">  <a href="http://br.ard.yahoo.com/SIG=152bicsct/M=585346.12416066.12793593.9904032/D=brtoppage/S=2022139719:INS6/Y=BR/EXP=1205467829/L=YeFficiYoYTDTHiWR8xxqAzwyRAUykfZ3pUAC7D0/B=BfWALsiYoJk-/J=1205460629771295/A=5189923/R=0/SIG=12ae0uq7h/*https://www.agorainvest.com.br/campanhas/verifica_origem.asp?campanha=53" target="_blank"><b class="a_title">&Aacute;gora</b><BR>Conte com a maior para investir!</a>  </div><script language=javascript>
+if(window.yzq_d==null)window.yzq_d=new Object();
+window.yzq_d['BfWALsiYoJk-']='&U=13bf2bonu%2fN%3dBfWALsiYoJk-%2fC%3d585346.12416066.12793593.9904032%2fD%3dINS6%2fB%3d5189923';
+</script><noscript><img width=1 height=1 alt="" src="http://row.bc.yahoo.com/b?P=YeFficiYoYTDTHiWR8xxqAzwyRAUykfZ3pUAC7D0&T=156nrd2qi%2fX%3d1205460629%2fE%3d2022139719%2fR%3dbrtoppage%2fK%3d5%2fV%3d2.1%2fW%3dHR%2fY%3dBR%2fF%3d3065707165%2fH%3dY2FjaGVoaW50PSIyMDIyMTM5NzE5Ig--%2fQ%3d-1%2fS%3d1%2fJ%3d8DA098C8&U=13bf2bonu%2fN%3dBfWALsiYoJk-%2fC%3d585346.12416066.12793593.9904032%2fD%3dINS6%2fB%3d5189923"></noscript></td>
+      </tr>
+      <tr>
+        <td colspan=2><hr size=1 width=95% noshade></td>
+      </tr>
+      <tr>
+         <td><div class="p_t">  <a href="http://br.ard.yahoo.com/SIG=152h8s3a2/M=636432.12366675.12750819.9904031/D=brtoppage/S=2022139719:INS7/Y=BR/EXP=1205467829/L=YeFficiYoYTDTHiWR8xxqAzwyRAUykfZ3pUAC7D0/B=BvWALsiYoJk-/J=1205460629771295/A=5157685/R=0/SIG=13b4f4ome/*http://yahoobr.englishtown.com/Sp/LandingForm.aspx?kwid=83464&ctr=br&lng=pt&etag=etbr_yahoo_boxshop_jan08" target="_blank"><b class="a_title">Ingl&ecirc;s Online</b><BR>Aulas de Ingl&ecirc;s 24h por dia com plano de estudos individual!</a>  </div><script language=javascript>
+if(window.yzq_d==null)window.yzq_d=new Object();
+window.yzq_d['BvWALsiYoJk-']='&U=13b3ja0ts%2fN%3dBvWALsiYoJk-%2fC%3d636432.12366675.12750819.9904031%2fD%3dINS7%2fB%3d5157685';
+</script><noscript><img width=1 height=1 alt="" src="http://row.bc.yahoo.com/b?P=YeFficiYoYTDTHiWR8xxqAzwyRAUykfZ3pUAC7D0&T=156o82jmh%2fX%3d1205460629%2fE%3d2022139719%2fR%3dbrtoppage%2fK%3d5%2fV%3d2.1%2fW%3dHR%2fY%3dBR%2fF%3d2388393607%2fH%3dY2FjaGVoaW50PSIyMDIyMTM5NzE5Ig--%2fQ%3d-1%2fS%3d1%2fJ%3d8DA098C8&U=13b3ja0ts%2fN%3dBvWALsiYoJk-%2fC%3d636432.12366675.12750819.9904031%2fD%3dINS7%2fB%3d5157685"></noscript></td>
+         <td><div class="p_t">  <a href="http://br.ard.yahoo.com/SIG=152e2cfls/M=644573.12279380.12725908.9904030/D=brtoppage/S=2022139719:INS8/Y=BR/EXP=1205467829/L=YeFficiYoYTDTHiWR8xxqAzwyRAUykfZ3pUAC7D0/B=B_WALsiYoJk-/J=1205460629771295/A=5246126/R=0/SIG=118al8lb9/*http://www.zura.com.br/Celular?pr=3036" target="_blank"><b class="a_title">Sald&atilde;o Zura!</b><BR>Voc&ecirc; busca, n&oacute;s comparamos e quem ganha &eacute; seu bolso.</a>  </div><script language=javascript>
+if(window.yzq_d==null)window.yzq_d=new Object();
+window.yzq_d['B_WALsiYoJk-']='&U=13bk6h6aa%2fN%3dB_WALsiYoJk-%2fC%3d644573.12279380.12725908.9904030%2fD%3dINS8%2fB%3d5246126';
+</script><noscript><img width=1 height=1 alt="" src="http://row.bc.yahoo.com/b?P=YeFficiYoYTDTHiWR8xxqAzwyRAUykfZ3pUAC7D0&T=155f1slsb%2fX%3d1205460629%2fE%3d2022139719%2fR%3dbrtoppage%2fK%3d5%2fV%3d2.1%2fW%3dHR%2fY%3dBR%2fF%3d667636478%2fH%3dY2FjaGVoaW50PSIyMDIyMTM5NzE5Ig--%2fQ%3d-1%2fS%3d1%2fJ%3d8DA098C8&U=13bk6h6aa%2fN%3dB_WALsiYoJk-%2fC%3d644573.12279380.12725908.9904030%2fD%3dINS8%2fB%3d5246126"></noscript></td>
+      </tr>
+    </table>
+	</div>
+</div>
+            </div>
+            
+            
+			
+            
+            <div id="pulse" class="md"><style type="text/css">#pulse .hd a{font:normal 77%/150% verdana;display:block; float:right;}#pulse h3{font:normal 125% arial;text-align:center;color:#666;margin-bottom:7px;}#pulse .bd{padding:5px 10px;}	#pulse img{float:left;margin:0px;}#pulse ol{float: left;width:15em;}#pulse li{margin: 0 0 3px;margin-left:10px;font:bold 100% arial;color:#16387c;}#pulse li h5{display:inline;font-size:100%;}#pulse li div{zoom:1;margin:-2px 0 0;font:normal 85% verdana;color:#666;}#pulse li div a{color:#666;}			</style><div class="hd"><h2>Yahoo! Pulso - A escolha dos internautas</h2></div><div id="pulsebd" class="bd"><h3>Destaques do Yahoo! Autos</h3><a href="http://br.ard.yahoo.com/SIG=154taleog/M=541046.10538785.11159443.10207966/D=brtoppage/S=2022139719:PULSO/Y=BR/EXP=1205467829/L=YeFficiYoYTDTHiWR8xxqAzwyRAUykfZ3pUAC7D0/B=9_SALsiYoJk-/J=1205460629771295/A=5259351/R=0/SIG=13oft21e1/*http://br.rd.yahoo.com/hp/pulse/autos/*http://www.webmotors.com.br/wmpublicador/yahooNoticiaConteudo.vxlpub?hnid=39127"><img src="http://l.yimg.com/us.yimg.com/i/br/news/0208/houden_coupe.jpg" alt="Y! Autos" width="116" height="116"></a><ol><li><a href="http://br.ard.yahoo.com/SIG=154taleog/M=541046.10538785.11159443.10207966/D=brtoppage/S=2022139719:PULSO/Y=BR/EXP=1205467829/L=YeFficiYoYTDTHiWR8xxqAzwyRAUykfZ3pUAC7D0/B=9_SALsiYoJk-/J=1205460629771295/A=5259351/R=1/SIG=13oft21e1/*http://br.rd.yahoo.com/hp/pulse/autos/*http://www.webmotors.com.br/wmpublicador/yahooNoticiaConteudo.vxlpub?hnid=39127">Holden Coupe 60</a><div> Vers&atilde;o irada do Omega</div></li><li><a href="http://br.ard.yahoo.com/SIG=154taleog/M=541046.10538785.11159443.10207966/D=brtoppage/S=2022139719:PULSO/Y=BR/EXP=1205467829/L=YeFficiYoYTDTHiWR8xxqAzwyRAUykfZ3pUAC7D0/B=9_SALsiYoJk-/J=1205460629771295/A=5259351/R=2/SIG=13odtt03g/*http://br.rd.yahoo.com/hp/pulse/autos/*http://www.webmotors.com.br/wmpublicador/yahooNoticiaConteudo.vxlpub?hnid=39115">Ferraris falsificadas</a><div>R&eacute;plicas com pe&ccedil;as originais </div></li><li><a href="http://br.ard.yahoo.com/SIG=154taleog/M=541046.10538785.11159443.10207966/D=brtoppage/S=2022139719:PULSO/Y=BR/EXP=1205467829/L=YeFficiYoYTDTHiWR8xxqAzwyRAUykfZ3pUAC7D0/B=9_SALsiYoJk-/J=1205460629771295/A=5259351/R=3/SIG=13oit7ba5/*http://br.rd.yahoo.com/hp/pulse/autos/*http://www.webmotors.com.br/wmpublicador/yahooNoticiaConteudo.vxlpub?hnid=39114">Scirocco</a><div>VW mostra novo carro</div></li><li><a href="http://br.ard.yahoo.com/SIG=154taleog/M=541046.10538785.11159443.10207966/D=brtoppage/S=2022139719:PULSO/Y=BR/EXP=1205467829/L=YeFficiYoYTDTHiWR8xxqAzwyRAUykfZ3pUAC7D0/B=9_SALsiYoJk-/J=1205460629771295/A=5259351/R=4/SIG=13o4j5soi/*http://br.rd.yahoo.com/hp/pulse/autos/*http://www.webmotors.com.br/wmpublicador/yahooNoticiaConteudo.vxlpub?hnid=39128">Suzuki DL1000 V-Strom </a><div>Big prazer ao guid&atilde;o</div></li></ol></div><a class="btn-more" href="http://br.ard.yahoo.com/SIG=154taleog/M=541046.10538785.11159443.10207966/D=brtoppage/S=2022139719:PULSO/Y=BR/EXP=1205467829/L=YeFficiYoYTDTHiWR8xxqAzwyRAUykfZ3pUAC7D0/B=9_SALsiYoJk-/J=1205460629771295/A=5259351/R=5/SIG=130nf5cga/*http://br.rd.yahoo.com/hp/pulse/autos/*http://www.webmotors.com.br/webmotors/ssyahoo/home.aspx">&#187; Mais destaques do Yahoo! Autos</a></div><script language=javascript>
+if(window.yzq_d==null)window.yzq_d=new Object();
+window.yzq_d['9_SALsiYoJk-']='&U=13doiq5fd%2fN%3d9_SALsiYoJk-%2fC%3d541046.10538785.11159443.10207966%2fD%3dPULSO%2fB%3d5259351';
+</script><noscript><img width=1 height=1 alt="" src="http://row.bc.yahoo.com/b?P=YeFficiYoYTDTHiWR8xxqAzwyRAUykfZ3pUAC7D0&T=155a5t8ci%2fX%3d1205460629%2fE%3d2022139719%2fR%3dbrtoppage%2fK%3d5%2fV%3d2.1%2fW%3dHR%2fY%3dBR%2fF%3d584977367%2fH%3dY2FjaGVoaW50PSIyMDIyMTM5NzE5Ig--%2fQ%3d-1%2fS%3d1%2fJ%3d8DA098C8&U=13doiq5fd%2fN%3d9_SALsiYoJk-%2fC%3d541046.10538785.11159443.10207966%2fD%3dPULSO%2fB%3d5259351"></noscript>                       <body>
+<div id="popsearch" class="md"> 
+  <div class="hd"> 
+    <h2><a href=s/429520>Novo Yahoo! Cad&ecirc;?</a>: <a href=s/429521><span>Mais buscados</span></a></h2> 
+  </div> 
+  <div id="popsearchbd" class="bd"> 
+    <ol>
+      <li class="tt1"><a href=s/429522>Big Brother</a></li>
+      <li class="tt2"><a href=s/429523>Concursos p&uacute;blicos</a></li>
+      <li class="tt3"><a href=s/429524>Horóscopo</a></li>
+      <li class="tt4"><a href=s/429525>Imposto de Renda</a></li>
+      <li class="tt5"><a href=s/429526>C&eacute;lulas-tronco</a></li>
+    </ol>
+    <ol>
+      <li class="tt6"><a href=s/429527>Elei&ccedil;&otilde;es nos EUA</a></li>
+      <li class="tt7"><a href=s/429528>Novelas</a></li>
+      <li class="tt8"><a href=s/429529>Previs&atilde;o do tempo</a></li>
+      <li class="tt9"><a href=s/429530>Jaqueline Khury</a></li>
+	  <li class="tt10"><a href=s/429531>Libertadores</a></li>
+    </ol>
+  </div>
+  <a class=btn-more href=s/429532>&raquo; Experimente uma nova busca</a></div>
+</body>                       <script language="javascript" type="text/javascript">
+            now=new Date;
+            t10=now.getTime();
+            </script>
+          </div>
+        </div>
+        
+      </div>
+      <div style="display: block; left: -1000px;" class="all" id="trough-overlay">
+<span class="shadow1"><span class="shadow2">
+    <div id="trough-overlay-content">
+      <h2>Servi&ccedil;os Yahoo!</h2>
+      <a href="r/bzcl" id="trough-close">Fechar</a>
+      <div id="trough-overlay-bd" class="bd">
+        <div id="properties">
+          <ol id="drawer-1" start="1" class="col1">
+            <li><a href="r/bzis">Acesso Gr&aacute;tis</a></li>
+            <li><a href="r/bzca">Agenda</a></li>
+            <li><a href="r/bzhe">Ajuda</a></li>
+            <li><a href="r/bzas">Anti-spam</a></li>
+            <li><a href="r/bzau">Autos</a></li>
+            <li><a href="r/bzav">Avatars</a></li>
+            <li><a href="r/bzto">Barra Y!</a></li>
+            <li><a href="r/bzht">Bem-estar</a></li>
+            <li><a href="r/bzno">Bloco de Notas</a></li>
+            <li><a href="r/bzes">Busca Educa&ccedil;&atilde;o </a></li>
+          </ol>
+          <ol id="drawer-2" start="11" class="col2">
+            <li><a href="r/bzmb">Celular</a></li>
+			<li><a href="r/bzmv">Cinema</a></li>
+            <li><a href="r/bzen">Divers&atilde;o</a></li>
+            <li><a href="r/bzem">E-mail</a></li>
+            <li><a href="r/bzcr">Empregos</a></li>
+            <li><a href="r/bzpe">Encontros</a></li>
+            <li><a href="r/bzad">Endere&ccedil;os</a></li>
+            <li><a href="r/bzsp">Esportes</a></li>
+            <li><a href="r/bzfa">Favoritos</a></li>
+            <li><a href="r/bzfi">Finan&ccedil;as</a></li>
+          </ol>
+          <ol id="drawer-3" start="21" class="col3">            
+            <li><a href="r/bzfk">Flickr Fotos</a></li>
+			<li><a href="r/bzfu">Futebol 2007</a></li>
+            <li><a href="r/bzga">Games</a></li>
+            <li><a href="https://login.yahoo.com/config/login_verify2?.intl=br&.done=http://br.geocities.yahoo.com/">GeoCities</a></li>
+            <li><a href="r/bzgr">Grupos</a></li>
+            <li><a href="r/bzre">Im&oacute;veis</a></li>
+            <li><a href="r/bzyp">List&atilde;o OESP</a></li>
+            <li><a href="r/bzma">Mapas</a></li>
+          	<li><a href="r/bzme">Messenger</a></li>
+            <li><a href="r/bzmy">Meu Yahoo!</a></li>
+          </ol>
+          <ol id="drawer-4" start="31" class="col4">            
+            <li><a href="r/bzac">Minha Conta</a></li>
+			<li><a href="r/bzmu">M&uacute;sica</a></li>
+            <li><a href="r/bzmw">My Web</a></li>
+            <li><a href="r/bzvd">Namorados</a></li>
+            <li><a href="r/bzne">Not&iacute;cias</a></li>
+            <li><a href="r/bzpa">Pan 2007</a></li>
+            <li><a href="r/bzbr">Porta-Arquivos</a></li>
+            <li><a href="r/bzan">Respostas</a></li>
+            <li><a href="r/bzsm">Search Marketing</a></li>
+			<li><a href="r/bzse">Seguran&ccedil;a</a></li>
+          </ol>
+          <ol id="drawer-5" start="41" class="col5">            
+            <li><a href="r/bzsh">Shopping</a></li>
+			<li><a href="r/bzsx">Site Explorer</a></li>
+            <li><a href="r/bzte">Tecnologia</a></li>
+            <li><a href="r/bzwe">Tempo</a></li>
+            <li><a href="r/bzba">Tradutor</a></li>
+			<li><a href="r/btpt">Travessia</a></li>
+            <li><a href="r/bztr">Viagens</a></li>
+            <li><a href="r/bzyc">Yahoo! Cad&ecirc;?</a></li>
+          </ol>
+        </div>
+        <div id="properties-intl">
+          <ol id="drawer-i-1" start="1" class="col1">
+            <li><a href="r/bzge">Y! Alemanha</a></li>
+            <li><a href="r/bzar">Y! Argentina</a></li>
+            <li><a href="r/bzai">Y! &Aacute;sia</a></li>
+            <li><a href="r/bzat">Y! Austr&aacute;lia</a></li>
+            <li><a href="r/bzcd">Y! Canad&aacute;</a></li>
+            <li><a href="r/bzch">Y! China</a></li>			
+            <li><a href="r/bzsi">Y! Cingapura</a></li>
+          </ol>
+          <ol id="drawer-i-2" start="8" class="col2">
+		  	<li><a href="r/bzkr">Y! Cor&eacute;ia</a></li>
+            <li><a href="r/bzde">Y! Dinamarca</a></li>
+            <li><a href="r/bzct">Y! em Catal&atilde;o</a></li>
+            <li><a href="r/bzcn">Y! em Chin&ecirc;s</a></li>
+            <li><a href="r/bzru">Y! em Russo</a></li>
+            <li><a href="r/bzsn">Y! Espanha</a></li>
+            <li><a href="r/bzeu">Y! E.U.A.</a></li>
+          </ol>
+          <ol id="drawer-i-3" start="15" class="col3">
+		  	<li><a href="r/bzpp">Y! Filipinas</a></li>
+			<li><a href="r/bzfr">Y! Fran&ccedil;a</a></li>
+            <li><a href="r/bzhk">Y! Hong Kong</a></li>
+            <li><a href="r/bzin">Y! &Iacute;ndia</a></li>
+            <li><a href="r/bzid">Y! Indon&eacute;sia</a></li>
+            <li><a href="r/bzit">Y! It&aacute;lia</a></li>
+            <li><a href="r/bzja">Y! Jap&atilde;o</a></li>
+          </ol>
+          <ol id="drawer-i-4" start="22" class="col4">
+            <li><a href="r/bzml">Y! Mal&aacute;sia</a></li>
+            <li><a href="r/bzmx">Y! M&eacute;xico</a></li>
+            <li><a href="r/bznw">Y! Noruega</a></li>
+            <li><a href="r/bznz">Y! N. Zel&acirc;ndia</a></li>
+            <li><a href="r/bzqu">Y! Quebec</a></li>
+            <li><a href="r/bzuk">Y! RU &amp; IR</a></li>
+            <li><a href="r/bzsw">Y! Su&eacute;cia</a></li>
+          </ol>
+          <ol id="drawer-i-5" start="29" class="col5">
+            <li><a href="r/bzth">Y! Tail&acirc;ndia</a></li>
+            <li><a href="r/bzta">Y! Taiwan</a></li>
+            <li><a href="r/bztm">Y! Telemundo</a></li>
+          </ol>
+        </div>
+        <div id="seriously"><a href="r/bzms">&#187; Mais servi&ccedil;os</a></div>
+      </div>
+    </div>
+    </span></span>
+</div>
+      
+    </div>
+     
+	 <div id="footer" class="md">
+  <ul>
+    <li class="last"><a href="r/bffk"><strong>Compartilhe suas fotos. Explore o mundo.</strong></a></li>
+  </ul>
+    <ul id="overture">
+      <li><a href="r/bfoa">Publicidade</a></li>
+      <li><a href="r/bfoy">Links patrocinados</a></li>
+      <li><a href="r/bfos">Inclua seu site na busca</a></li>
+      <li><a href="r/bfop">Privacidade</a></li>
+      <li><a href="r/bfot">Termos do Servi&ccedil;o</a></li>
+      <li><a href="r/bfoj">Trabalhe no Yahoo!</a></li>
+      <li class="last"><a href="r/bfoh">Ajuda</a></li>
+    </ul>
+   <ul>
+    <li class="last"><span id="copyright">Copyright &copy; 2008 Yahoo!. Todos os direitos reservados.</span></li>
+    <li><a href="r/bfoc">Direitos Autorais</a></li>
+    <li class="last"><a href="r/bfox">Central de Seguran&ccedil;a</a></li>
+  </ul>
+</div>
+<!--http://br.ard.yahoo.com/SIG=154dk0b7p/M=261188.10689291.11296107.10352456/D=brtoppage/S=2022139719:FOOT9/Y=BR/EXP=1205467829/L=YeFficiYoYTDTHiWR8xxqAzwyRAUykfZ3pUAC7D0/B=CPWALsiYoJk-/J=1205460629771295/A=4574177/R=0/*--><!-- SpaceID=2022139719 loc=FR10 noad -->
+ 
+  </div>
+  
+</body>
+</html>
+<script language=javascript>
+if(window.yzq_p==null)document.write("<scr"+"ipt language=javascript src=http://l.yimg.com/us.js.yimg.com/lib/bc/bcr_2.0.4.js></scr"+"ipt>");
+</script><script language=javascript>
+if(window.yzq_p)yzq_p('P=YeFficiYoYTDTHiWR8xxqAzwyRAUykfZ3pUAC7D0&T=151sjav1c%2fX%3d1205460629%2fE%3d2022139719%2fR%3dbrtoppage%2fK%3d5%2fV%3d1.1%2fW%3dJR%2fY%3dBR%2fF%3d1313034091%2fH%3dY2FjaGVoaW50PSIyMDIyMTM5NzE5Ig--%2fS%3d1%2fJ%3d8DA098C8');
+if(window.yzq_s)yzq_s();
+</script><noscript><img width=1 height=1 alt="" src="http://row.bc.yahoo.com/b?P=YeFficiYoYTDTHiWR8xxqAzwyRAUykfZ3pUAC7D0&T=154cg318c%2fX%3d1205460629%2fE%3d2022139719%2fR%3dbrtoppage%2fK%3d5%2fV%3d3.1%2fW%3dJR%2fY%3dBR%2fF%3d48297185%2fH%3dY2FjaGVoaW50PSIyMDIyMTM5NzE5Ig--%2fQ%3d-1%2fS%3d1%2fJ%3d8DA098C8"></noscript>
+<!-- w6.latam.bro.yahoo.com compressed Thu Mar 13 23:10:29 BRT 2008 -->

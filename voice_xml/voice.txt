@@ -1,0 +1,86 @@
+<?xml version="1.0" ?>
+ <!DOCTYPE vxml 
+   PUBLIC "-//BeVocal Inc//VoiceXML 2.0//EN"
+   "http://cafe.bevocal.com/libraries/dtd/vxml2-0-bevocal.dtd">
+ 
+ <vxml version="2.0" 
+   xmlns="http://www.w3.org/2001/vxml"
+   xml:lang="en-US">			
+
+<form id="detalhes" scope="dialog">				
+<field name="acao" modal="false">			
+<grammar src="gramatica.grxml#acao" mode="voice"/>	
+<prompt>Bem vindo ao Schwinn palace hotel, Qual o tipo de operacao deseja executar. 
+Reservar um apartamento, alterar uma reserva ou cancelar um resarva</prompt>	
+</field>						
+<field name="apto" modal="false">			
+<grammar src="gramatica.grxml#apto" mode="voice"/>	
+<prompt>Qual tipo de quarto voce deseja. Standart, luxo ou max	</prompt>						
+</field>											
+<block>
+voce vai <value expr="acao"/> um quarto do tipo <value expr="apto"/>
+<goto next="#def"/> 
+</block>
+</form>
+
+
+<form id="def" scope="dialog">				
+<field name="num" type="number">
+<prompt> Diga o numero de hospedes do quarto </prompt>
+<filled>
+<prompt> Voce informou <value expr="num"/>
+</prompt>
+</filled>
+</field>
+<field name="dt" type="date">
+<prompt> Agora diga a data inicial do aluguel </prompt>
+<filled>
+<prompt> Voce informou <value expr="dt"/>
+</prompt>
+</filled>
+</field>
+<field name="dt2" type="date">
+<prompt> Agora diga a data final do aluguel </prompt>
+<filled>
+<prompt> Voce informou <value expr="dt2"/>
+</prompt>
+</filled>
+</field>
+<block>
+<goto next="#cad"/> 
+</block>
+</form>
+
+
+<form id="cad" scope="dialog">																
+<field name="cpf" type="phone">
+<prompt>  bem vindo ao momento de se cadastrar,
+Diga o numero do seu cpf sem pontos e tracos</prompt>
+</field>																	
+<block>
+  Seu cpf eh <value expr="cpf"/>
+  <goto next="#pag"/> 
+</block>
+</form>
+
+
+<form id="pag" scope="dialog">						
+<grammar src="gramatica.grxml#cond_pag" mode="voice"/>	
+<field name="cond_pag" modal="false">
+<prompt> Diga a forma de pagamento, sendo a vista ou a prazo</prompt>
+</field>
+<block>
+  Voce pagara <value expr="cond_pag"/> 
+</block>
+</form>
+
+
+<noinput>
+  Desculpa, eu nao escutei nada. 
+  <reprompt /> 
+</noinput>
+<nomatch>
+  Sua opcao foi invalida
+  <reprompt /> 
+</nomatch>						
+</vxml>

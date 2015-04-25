@@ -1,0 +1,7 @@
+#ABNF 1.0;
+language en-US;
+mode voice;
+root $name;
+  public $name = $nome [$nome] $sobrenome;
+  $nome = Marcos | Paulo | Deise | Cristiane | Marcio | Jacques;
+  $sobrenome = [Martins | Ferreira] [da] (Silva | Metz | Faber | Bonifacio | Schreiber);
